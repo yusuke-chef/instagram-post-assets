@@ -1,0 +1,27 @@
+{
+  "2026-08-21": {
+    "am": {"type": "feed", "slides": ["post18_slide1.jpg", "post18_slide2.jpg", "post18_slide3.jpg", "post18_slide4.jpg", "post18_slide5.jpg"], "caption": "captions/post18.txt"},
+    "pm": {"type": "feed", "slides": ["post19_slide1.jpg", "post19_slide2.jpg", "post19_slide3.jpg", "post19_slide4.jpg", "post19_slide5.jpg"], "caption": "captions/post19.txt"},
+    "reel": {"type": "reel", "video": "reel8_fri0821_final.mp4", "caption": "captions/reel8.txt"}
+  },
+  "2026-08-22": {
+    "am": {"type": "feed", "slides": ["post20_slide1.jpg", "post20_slide2.jpg", "post20_slide3.jpg", "post20_slide4.jpg", "post20_slide5.jpg"], "caption": "captions/post20.txt"},
+    "pm": {"type": "feed", "slides": ["post21_slide1.jpg", "post21_slide2.jpg", "post21_slide3.jpg", "post21_slide4.jpg", "post21_slide5.jpg"], "caption": "captions/post21.txt"},
+    "reel": {"type": "reel", "video": "reel9_sat0822_final.mp4", "caption": "captions/reel9.txt"}
+  },
+  "2026-08-23": {
+    "am": {"type": "feed", "slides": ["post22_slide1.jpg", "post22_slide2.jpg", "post22_slide3.jpg", "post22_slide4.jpg", "post22_slide5.jpg"], "caption": "captions/post22.txt"},
+    "pm": {"type": "feed", "slides": ["post23_slide1.jpg", "post23_slide2.jpg", "post23_slide3.jpg", "post23_slide4.jpg", "post23_slide5.jpg"], "caption": "captions/post23.txt"},
+    "reel": {"type": "reel", "video": "reel10_sun0823_final.mp4", "caption": "captions/reel10.txt"}
+  },
+  "2026-08-24": {
+    "am": {"type": "feed", "slides": ["post24_slide1.jpg", "post24_slide2.jpg", "post24_slide3.jpg", "post24_slide4.jpg", "post24_slide5.jpg"], "caption": "captions/post24.txt"},
+    "pm": {"type": "feed", "slides": ["post25_slide1.jpg", "post25_slide2.jpg", "post25_slide3.jpg", "post25_slide4.jpg", "post25_slide5.jpg"], "caption": "captions/post25.txt"},
+    "reel": {"type": "reel", "video": "reel11_mon0824_final.mp4", "caption": "captions/reel11.txt"}
+  },
+  "2026-08-25": {
+    "am": {"type": "feed", "slides": ["post26_slide1.jpg", "post26_slide2.jpg", "post26_slide3.jpg", "post26_slide4.jpg", "post26_slide5.jpg"], "caption": "captions/post26.txt"},
+    "pm": {"type": "feed", "slides": ["post27_slide1.jpg", "post27_slide2.jpg", "post27_slide3.jpg", "post27_slide4.jpg", "post27_slide5.jpg"], "caption": "captions/post27.txt"},
+    "reel": {"type": "reel", "video": "reel12_tue0825_final.mp4", "caption": "captions/reel12.txt"}
+  }
+}
