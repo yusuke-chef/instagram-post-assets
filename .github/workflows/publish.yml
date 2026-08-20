@@ -1,0 +1,26 @@
+name: Instagram scheduled publish
+
+on:
+  schedule:
+    # cronはUTC表記。JSTはUTC+9。
+    - cron: "45 22 * * *"  # 7:45 JST頃 → フィード朝枠
+    - cron: "45 3 * * *"   # 12:45 JST頃 → フィード昼枠
+    - cron: "15 10 * * *"  # 19:15 JST頃 → リール枠
+  workflow_dispatch: {}     # 手動実行ボタン（テスト用）
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - run: python scripts/publish.py
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_ID: ${{ secrets.IG_ID }}
