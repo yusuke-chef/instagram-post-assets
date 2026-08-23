@@ -46,7 +46,10 @@ def slot_for_now(hour):
     return None
 
 
-def already_posted(product_type, today_str):
+def already_posted(product_type, today_str, slot):
+    """product_typeとその日付が一致するだけでなく、FEEDの場合はam/pmの枠まで区別する。
+    区別しないと「AM枠が済んでいればPM枠も済んだこと」に誤判定されるバグがあった（2026-08-21〜23で実際に発生、
+    post19/post23が誤ってスキップされた）。"""
     r = requests.get(
         f"{BASE}/{IG_ID}/media",
         params={"fields": "id,timestamp,media_product_type", "limit": 15, "access_token": TOKEN},
@@ -57,8 +60,13 @@ def already_posted(product_type, today_str):
             continue
         ts = datetime.datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
         jst = ts.astimezone(JST)
-        if jst.strftime("%Y-%m-%d") == today_str:
-            return True
+        if jst.strftime("%Y-%m-%d") != today_str:
+            continue
+        if product_type == "FEED":
+            post_slot = "am" if jst.hour < 10 else "pm"
+            if post_slot != slot:
+                continue
+        return True
     return False
 
 
@@ -93,13 +101,22 @@ def publish_feed(entry):
         sys.exit(1)
     cid = r["id"]
 
-    r = requests.post(
-        f"{BASE}/{IG_ID}/media_publish",
-        data={"creation_id": cid, "access_token": TOKEN},
-        timeout=60,
-    ).json()
-    if "id" not in r:
-        print(f"FAILED: publish did not return an id. Response: {r}")
+    # カルーセルのコンテナがすぐには公開可能状態にならないことがある
+    # （2026-08-22 post20で「Media ID is not available」エラーが実際に発生した）ため、
+    # media_publishを最大3回、間隔を空けてリトライする。
+    r = None
+    for attempt in range(3):
+        r = requests.post(
+            f"{BASE}/{IG_ID}/media_publish",
+            data={"creation_id": cid, "access_token": TOKEN},
+            timeout=60,
+        ).json()
+        if "id" in r:
+            break
+        print(f"publish attempt {attempt + 1} failed: {r}")
+        time.sleep(10)
+    if not r or "id" not in r:
+        print(f"FAILED: publish did not return an id after retries. Response: {r}")
         sys.exit(1)
     print(f"SUCCESS: feed published, media_id={r['id']}")
 
@@ -162,7 +179,7 @@ def main():
     entry = day_schedule[slot]
     product_type = "REELS" if entry["type"] == "reel" else "FEED"
 
-    if already_posted(product_type, today_str):
+    if already_posted(product_type, today_str, slot):
         print(f"SUCCESS: {slot}枠は本日既に公開済みです。何もしません。")
         return
 
