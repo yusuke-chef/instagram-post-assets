@@ -46,13 +46,17 @@ def slot_for_now(hour):
     return None
 
 
-def already_posted(product_type, today_str, slot):
+def already_posted(product_type, today_str, slot, expected_caption):
     """product_typeとその日付が一致するだけでなく、FEEDの場合はam/pmの枠まで区別する。
     区別しないと「AM枠が済んでいればPM枠も済んだこと」に誤判定されるバグがあった（2026-08-21〜23で実際に発生、
-    post19/post23が誤ってスキップされた）。"""
+    post19/post23が誤ってスキップされた）。
+
+    さらに、日付・時間帯が一致するだけでなく、実際のキャプション本文が今日の予定コンテンツと一致するかまで
+    確認する。これが無いと、別日の欠落分を当日朝に手動復旧した投稿が「今日の予定枠」と誤認識され、
+    本来の予定枠がスキップされる事故が起きる（2026-08-24に実際に発生、post24が誤ってスキップされた）。"""
     r = requests.get(
         f"{BASE}/{IG_ID}/media",
-        params={"fields": "id,timestamp,media_product_type", "limit": 15, "access_token": TOKEN},
+        params={"fields": "id,timestamp,media_product_type,caption", "limit": 15, "access_token": TOKEN},
         timeout=30,
     ).json()
     for m in r.get("data", []):
@@ -66,6 +70,8 @@ def already_posted(product_type, today_str, slot):
             post_slot = "am" if jst.hour < 10 else "pm"
             if post_slot != slot:
                 continue
+        if (m.get("caption") or "").strip() != expected_caption.strip():
+            continue
         return True
     return False
 
@@ -178,8 +184,9 @@ def main():
 
     entry = day_schedule[slot]
     product_type = "REELS" if entry["type"] == "reel" else "FEED"
+    expected_caption = read_caption(entry["caption"])
 
-    if already_posted(product_type, today_str, slot):
+    if already_posted(product_type, today_str, slot, expected_caption):
         print(f"SUCCESS: {slot}枠は本日既に公開済みです。何もしません。")
         return
 

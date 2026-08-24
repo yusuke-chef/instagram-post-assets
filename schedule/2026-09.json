@@ -1,0 +1,6 @@
+{
+  "2026-09-01": {
+    "am": {"type": "feed", "slides": ["post40_slide1.jpg", "post40_slide2.jpg", "post40_slide3.jpg", "post40_slide4.jpg", "post40_slide5.jpg"], "caption": "captions/post40.txt"},
+    "pm": {"type": "feed", "slides": ["post41_slide1.jpg", "post41_slide2.jpg", "post41_slide3.jpg", "post41_slide4.jpg", "post41_slide5.jpg"], "caption": "captions/post41.txt"}
+  }
+}
