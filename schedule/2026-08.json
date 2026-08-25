@@ -26,26 +26,32 @@
   },
   "2026-08-26": {
     "am": {"type": "feed", "slides": ["post28_slide1.jpg", "post28_slide2.jpg", "post28_slide3.jpg", "post28_slide4.jpg", "post28_slide5.jpg"], "caption": "captions/post28.txt"},
-    "pm": {"type": "feed", "slides": ["post29_slide1.jpg", "post29_slide2.jpg", "post29_slide3.jpg", "post29_slide4.jpg", "post29_slide5.jpg"], "caption": "captions/post29.txt"}
+    "pm": {"type": "feed", "slides": ["post29_slide1.jpg", "post29_slide2.jpg", "post29_slide3.jpg", "post29_slide4.jpg", "post29_slide5.jpg"], "caption": "captions/post29.txt"},
+    "reel": {"type": "reel", "video": "reel13_wed0826_final.mp4", "caption": "captions/reel13.txt"}
   },
   "2026-08-27": {
     "am": {"type": "feed", "slides": ["post30_slide1.jpg", "post30_slide2.jpg", "post30_slide3.jpg", "post30_slide4.jpg", "post30_slide5.jpg"], "caption": "captions/post30.txt"},
-    "pm": {"type": "feed", "slides": ["post31_slide1.jpg", "post31_slide2.jpg", "post31_slide3.jpg", "post31_slide4.jpg", "post31_slide5.jpg"], "caption": "captions/post31.txt"}
+    "pm": {"type": "feed", "slides": ["post31_slide1.jpg", "post31_slide2.jpg", "post31_slide3.jpg", "post31_slide4.jpg", "post31_slide5.jpg"], "caption": "captions/post31.txt"},
+    "reel": {"type": "reel", "video": "reel14_thu0827_final.mp4", "caption": "captions/reel14.txt"}
   },
   "2026-08-28": {
     "am": {"type": "feed", "slides": ["post32_slide1.jpg", "post32_slide2.jpg", "post32_slide3.jpg", "post32_slide4.jpg", "post32_slide5.jpg"], "caption": "captions/post32.txt"},
-    "pm": {"type": "feed", "slides": ["post33_slide1.jpg", "post33_slide2.jpg", "post33_slide3.jpg", "post33_slide4.jpg", "post33_slide5.jpg"], "caption": "captions/post33.txt"}
+    "pm": {"type": "feed", "slides": ["post33_slide1.jpg", "post33_slide2.jpg", "post33_slide3.jpg", "post33_slide4.jpg", "post33_slide5.jpg"], "caption": "captions/post33.txt"},
+    "reel": {"type": "reel", "video": "reel15_fri0828_final.mp4", "caption": "captions/reel15.txt"}
   },
   "2026-08-29": {
     "am": {"type": "feed", "slides": ["post34_slide1.jpg", "post34_slide2.jpg", "post34_slide3.jpg", "post34_slide4.jpg", "post34_slide5.jpg"], "caption": "captions/post34.txt"},
-    "pm": {"type": "feed", "slides": ["post35_slide1.jpg", "post35_slide2.jpg", "post35_slide3.jpg", "post35_slide4.jpg", "post35_slide5.jpg"], "caption": "captions/post35.txt"}
+    "pm": {"type": "feed", "slides": ["post35_slide1.jpg", "post35_slide2.jpg", "post35_slide3.jpg", "post35_slide4.jpg", "post35_slide5.jpg"], "caption": "captions/post35.txt"},
+    "reel": {"type": "reel", "video": "reel16_sat0829_final.mp4", "caption": "captions/reel16.txt"}
   },
   "2026-08-30": {
     "am": {"type": "feed", "slides": ["post36_slide1.jpg", "post36_slide2.jpg", "post36_slide3.jpg", "post36_slide4.jpg", "post36_slide5.jpg"], "caption": "captions/post36.txt"},
-    "pm": {"type": "feed", "slides": ["post37_slide1.jpg", "post37_slide2.jpg", "post37_slide3.jpg", "post37_slide4.jpg", "post37_slide5.jpg"], "caption": "captions/post37.txt"}
+    "pm": {"type": "feed", "slides": ["post37_slide1.jpg", "post37_slide2.jpg", "post37_slide3.jpg", "post37_slide4.jpg", "post37_slide5.jpg"], "caption": "captions/post37.txt"},
+    "reel": {"type": "reel", "video": "reel17_sun0830_final.mp4", "caption": "captions/reel17.txt"}
   },
   "2026-08-31": {
     "am": {"type": "feed", "slides": ["post38_slide1.jpg", "post38_slide2.jpg", "post38_slide3.jpg", "post38_slide4.jpg", "post38_slide5.jpg"], "caption": "captions/post38.txt"},
-    "pm": {"type": "feed", "slides": ["post39_slide1.jpg", "post39_slide2.jpg", "post39_slide3.jpg", "post39_slide4.jpg", "post39_slide5.jpg"], "caption": "captions/post39.txt"}
+    "pm": {"type": "feed", "slides": ["post39_slide1.jpg", "post39_slide2.jpg", "post39_slide3.jpg", "post39_slide4.jpg", "post39_slide5.jpg"], "caption": "captions/post39.txt"},
+    "reel": {"type": "reel", "video": "reel18_mon0831_final.mp4", "caption": "captions/reel18.txt"}
   }
 }
