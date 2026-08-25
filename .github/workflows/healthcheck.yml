@@ -1,0 +1,20 @@
+name: Instagram daily healthcheck
+
+on:
+  schedule:
+    - cron: "30 0 * * *"  # 9:30 JST頃
+  workflow_dispatch: {}
+
+jobs:
+  healthcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python scripts/healthcheck.py
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_ID: ${{ secrets.IG_ID }}
