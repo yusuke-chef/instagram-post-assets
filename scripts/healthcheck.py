@@ -43,33 +43,39 @@ def load_schedule():
     return merged
 
 
-def fetch_recent_media(limit=30):
+def fetch_recent_media(limit=50):
     r = requests.get(
         f"{BASE}/{IG_ID}/media",
-        params={"fields": "id,timestamp,media_product_type", "limit": limit, "access_token": TOKEN},
+        params={"fields": "id,timestamp,media_product_type,caption", "limit": limit, "access_token": TOKEN},
         timeout=30,
     ).json()
     items = []
     for m in r.get("data", []):
         ts = datetime.datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
         jst = ts.astimezone(JST)
-        items.append({"type": m.get("media_product_type"), "jst": jst})
+        items.append({
+            "type": m.get("media_product_type"),
+            "jst": jst,
+            "caption": (m.get("caption") or "").strip(),
+        })
     return items
 
 
-def slot_present(media, date_str, slot):
+def read_caption(rel_path):
+    path = os.path.join(REPO_ROOT, rel_path)
+    with open(path, encoding="utf-8") as f:
+        return f.read().strip()
+
+
+def slot_present(media, expected_type, expected_caption):
+    """日付・時間帯の一致ではなく、実際のキャプション本文が一致する投稿が存在するかで判定する。
+    手動復旧した投稿は、本来の予定日ではなく実際にpublishした日時がInstagram上のtimestampになるため、
+    日付一致だけの判定では永久に「見つからない」と誤検知し続ける（2026-08-25、post20・post23で実際に発生）。"""
     for m in media:
-        if m["jst"].strftime("%Y-%m-%d") != date_str:
+        if m["type"] != expected_type:
             continue
-        if slot == "reel":
-            if m["type"] == "REELS":
-                return True
-        else:
-            if m["type"] != "FEED":
-                continue
-            post_slot = "am" if m["jst"].hour < 10 else "pm"
-            if post_slot == slot:
-                return True
+        if m["caption"] == expected_caption:
+            return True
     return False
 
 
@@ -90,7 +96,9 @@ def main():
         for slot in ("am", "pm", "reel"):
             if slot not in entry:
                 continue
-            if not slot_present(media, d_str, slot):
+            expected_type = "REELS" if entry[slot]["type"] == "reel" else "FEED"
+            expected_caption = read_caption(entry[slot]["caption"])
+            if not slot_present(media, expected_type, expected_caption):
                 problems.append(f"欠落: {d_str} の {slot} 枠がInstagramに見当たりません（スケジュールには登録済み）")
 
     # 2. 在庫残数チェック（今日を含め、am+pmが両方登録されている連続日数を数える）
