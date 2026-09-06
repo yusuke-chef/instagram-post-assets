@@ -23,5 +23,8 @@
   "2026-09-10": {
     "am": {"type": "feed", "slides": ["post50_slide1.jpg", "post50_slide2.jpg", "post50_slide3.jpg", "post50_slide4.jpg", "post50_slide5.jpg"], "caption": "captions/post50.txt"},
     "pm": {"type": "feed", "slides": ["post51_slide1.jpg", "post51_slide2.jpg", "post51_slide3.jpg", "post51_slide4.jpg", "post51_slide5.jpg"], "caption": "captions/post51.txt"}
+  },
+  "2026-09-11": {
+    "am": {"type": "feed", "slides": ["post52_slide1.jpg", "post52_slide2.jpg", "post52_slide3.jpg", "post52_slide4.jpg", "post52_slide5.jpg"], "caption": "captions/post52.txt"}
   }
 }
