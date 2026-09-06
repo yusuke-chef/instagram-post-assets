@@ -312,5 +312,42 @@
       ],
       "caption": "captions/post61.txt"
     }
+  },
+  "2026-09-16": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post62_slide1.jpg",
+        "post62_slide2.jpg",
+        "post62_slide3.jpg",
+        "post62_slide4.jpg",
+        "post62_slide5.jpg"
+      ],
+      "caption": "captions/post62.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post63_slide1.jpg",
+        "post63_slide2.jpg",
+        "post63_slide3.jpg",
+        "post63_slide4.jpg",
+        "post63_slide5.jpg"
+      ],
+      "caption": "captions/post63.txt"
+    }
+  },
+  "2026-09-17": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post64_slide1.jpg",
+        "post64_slide2.jpg",
+        "post64_slide3.jpg",
+        "post64_slide4.jpg",
+        "post64_slide5.jpg"
+      ],
+      "caption": "captions/post64.txt"
+    }
   }
 }
