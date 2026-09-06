@@ -21,6 +21,7 @@
     "pm": {"type": "feed", "slides": ["post49_slide1.jpg", "post49_slide2.jpg", "post49_slide3.jpg", "post49_slide4.jpg", "post49_slide5.jpg"], "caption": "captions/post49.txt"}
   },
   "2026-09-10": {
-    "am": {"type": "feed", "slides": ["post50_slide1.jpg", "post50_slide2.jpg", "post50_slide3.jpg", "post50_slide4.jpg", "post50_slide5.jpg"], "caption": "captions/post50.txt"}
+    "am": {"type": "feed", "slides": ["post50_slide1.jpg", "post50_slide2.jpg", "post50_slide3.jpg", "post50_slide4.jpg", "post50_slide5.jpg"], "caption": "captions/post50.txt"},
+    "pm": {"type": "feed", "slides": ["post51_slide1.jpg", "post51_slide2.jpg", "post51_slide3.jpg", "post51_slide4.jpg", "post51_slide5.jpg"], "caption": "captions/post51.txt"}
   }
 }
