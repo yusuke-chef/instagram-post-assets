@@ -276,6 +276,41 @@
       "type": "reel",
       "video": "reel28_final.mp4",
       "caption": "captions/reel28.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post59_slide1.jpg",
+        "post59_slide2.jpg",
+        "post59_slide3.jpg",
+        "post59_slide4.jpg",
+        "post59_slide5.jpg"
+      ],
+      "caption": "captions/post59.txt"
+    }
+  },
+  "2026-09-15": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post60_slide1.jpg",
+        "post60_slide2.jpg",
+        "post60_slide3.jpg",
+        "post60_slide4.jpg",
+        "post60_slide5.jpg"
+      ],
+      "caption": "captions/post60.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post61_slide1.jpg",
+        "post61_slide2.jpg",
+        "post61_slide3.jpg",
+        "post61_slide4.jpg",
+        "post61_slide5.jpg"
+      ],
+      "caption": "captions/post61.txt"
     }
   }
 }
