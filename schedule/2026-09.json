@@ -384,5 +384,29 @@
       ],
       "caption": "captions/post67.txt"
     }
+  },
+  "2026-09-19": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post68_slide1.jpg",
+        "post68_slide2.jpg",
+        "post68_slide3.jpg",
+        "post68_slide4.jpg",
+        "post68_slide5.jpg"
+      ],
+      "caption": "captions/post68.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post69_slide1.jpg",
+        "post69_slide2.jpg",
+        "post69_slide3.jpg",
+        "post69_slide4.jpg",
+        "post69_slide5.jpg"
+      ],
+      "caption": "captions/post69.txt"
+    }
   }
 }
