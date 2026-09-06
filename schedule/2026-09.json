@@ -311,6 +311,11 @@
         "post61_slide5.jpg"
       ],
       "caption": "captions/post61.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel29_final.mp4",
+      "caption": "captions/reel29.txt"
     }
   },
   "2026-09-16": {
@@ -335,6 +340,11 @@
         "post63_slide5.jpg"
       ],
       "caption": "captions/post63.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel30_final.mp4",
+      "caption": "captions/reel30.txt"
     }
   },
   "2026-09-17": {
@@ -359,6 +369,11 @@
         "post65_slide5.jpg"
       ],
       "caption": "captions/post65.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel31_final.mp4",
+      "caption": "captions/reel31.txt"
     }
   },
   "2026-09-18": {
@@ -383,6 +398,11 @@
         "post67_slide5.jpg"
       ],
       "caption": "captions/post67.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel32_final.mp4",
+      "caption": "captions/reel32.txt"
     }
   },
   "2026-09-19": {
@@ -407,6 +427,11 @@
         "post69_slide5.jpg"
       ],
       "caption": "captions/post69.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel33_final.mp4",
+      "caption": "captions/reel33.txt"
     }
   }
 }
