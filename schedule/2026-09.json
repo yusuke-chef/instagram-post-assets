@@ -3,5 +3,9 @@
     "am": {"type": "feed", "slides": ["post40_slide1.jpg", "post40_slide2.jpg", "post40_slide3.jpg", "post40_slide4.jpg", "post40_slide5.jpg"], "caption": "captions/post40.txt"},
     "pm": {"type": "feed", "slides": ["post41_slide1.jpg", "post41_slide2.jpg", "post41_slide3.jpg", "post41_slide4.jpg", "post41_slide5.jpg"], "caption": "captions/post41.txt"},
     "reel": {"type": "reel", "video": "reel19_tue0901_final.mp4", "caption": "captions/reel19.txt"}
+  },
+  "2026-09-06": {
+    "am": {"type": "feed", "slides": ["post42_slide1.jpg", "post42_slide2.jpg", "post42_slide3.jpg", "post42_slide4.jpg", "post42_slide5.jpg"], "caption": "captions/post42.txt"},
+    "pm": {"type": "feed", "slides": ["post43_slide1.jpg", "post43_slide2.jpg", "post43_slide3.jpg", "post43_slide4.jpg", "post43_slide5.jpg"], "caption": "captions/post43.txt"}
   }
 }
