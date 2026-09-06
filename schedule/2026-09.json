@@ -38,5 +38,8 @@
     "am": {"type": "feed", "slides": ["post54_slide1.jpg", "post54_slide2.jpg", "post54_slide3.jpg", "post54_slide4.jpg", "post54_slide5.jpg"], "caption": "captions/post54.txt"},
     "pm": {"type": "feed", "slides": ["post55_slide1.jpg", "post55_slide2.jpg", "post55_slide3.jpg", "post55_slide4.jpg", "post55_slide5.jpg"], "caption": "captions/post55.txt"},
     "reel": {"type": "reel", "video": "reel26_sat0912_final.mp4", "caption": "captions/reel26.txt"}
+  },
+  "2026-09-13": {
+    "am": {"type": "feed", "slides": ["post56_slide1.jpg", "post56_slide2.jpg", "post56_slide3.jpg", "post56_slide4.jpg", "post56_slide5.jpg"], "caption": "captions/post56.txt"}
   }
 }
