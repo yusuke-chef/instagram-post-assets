@@ -6,30 +6,37 @@
   },
   "2026-09-06": {
     "am": {"type": "feed", "slides": ["post42_slide1.jpg", "post42_slide2.jpg", "post42_slide3.jpg", "post42_slide4.jpg", "post42_slide5.jpg"], "caption": "captions/post42.txt"},
-    "pm": {"type": "feed", "slides": ["post43_slide1.jpg", "post43_slide2.jpg", "post43_slide3.jpg", "post43_slide4.jpg", "post43_slide5.jpg"], "caption": "captions/post43.txt"}
+    "pm": {"type": "feed", "slides": ["post43_slide1.jpg", "post43_slide2.jpg", "post43_slide3.jpg", "post43_slide4.jpg", "post43_slide5.jpg"], "caption": "captions/post43.txt"},
+    "reel": {"type": "reel", "video": "reel20_sun0906_final.mp4", "caption": "captions/reel20.txt"}
   },
   "2026-09-07": {
     "am": {"type": "feed", "slides": ["post44_slide1.jpg", "post44_slide2.jpg", "post44_slide3.jpg", "post44_slide4.jpg", "post44_slide5.jpg"], "caption": "captions/post44.txt"},
-    "pm": {"type": "feed", "slides": ["post45_slide1.jpg", "post45_slide2.jpg", "post45_slide3.jpg", "post45_slide4.jpg", "post45_slide5.jpg"], "caption": "captions/post45.txt"}
+    "pm": {"type": "feed", "slides": ["post45_slide1.jpg", "post45_slide2.jpg", "post45_slide3.jpg", "post45_slide4.jpg", "post45_slide5.jpg"], "caption": "captions/post45.txt"},
+    "reel": {"type": "reel", "video": "reel21_mon0907_final.mp4", "caption": "captions/reel21.txt"}
   },
   "2026-09-08": {
     "am": {"type": "feed", "slides": ["post46_slide1.jpg", "post46_slide2.jpg", "post46_slide3.jpg", "post46_slide4.jpg", "post46_slide5.jpg"], "caption": "captions/post46.txt"},
-    "pm": {"type": "feed", "slides": ["post47_slide1.jpg", "post47_slide2.jpg", "post47_slide3.jpg", "post47_slide4.jpg", "post47_slide5.jpg"], "caption": "captions/post47.txt"}
+    "pm": {"type": "feed", "slides": ["post47_slide1.jpg", "post47_slide2.jpg", "post47_slide3.jpg", "post47_slide4.jpg", "post47_slide5.jpg"], "caption": "captions/post47.txt"},
+    "reel": {"type": "reel", "video": "reel22_tue0908_final.mp4", "caption": "captions/reel22.txt"}
   },
   "2026-09-09": {
     "am": {"type": "feed", "slides": ["post48_slide1.jpg", "post48_slide2.jpg", "post48_slide3.jpg", "post48_slide4.jpg", "post48_slide5.jpg"], "caption": "captions/post48.txt"},
-    "pm": {"type": "feed", "slides": ["post49_slide1.jpg", "post49_slide2.jpg", "post49_slide3.jpg", "post49_slide4.jpg", "post49_slide5.jpg"], "caption": "captions/post49.txt"}
+    "pm": {"type": "feed", "slides": ["post49_slide1.jpg", "post49_slide2.jpg", "post49_slide3.jpg", "post49_slide4.jpg", "post49_slide5.jpg"], "caption": "captions/post49.txt"},
+    "reel": {"type": "reel", "video": "reel23_wed0909_final.mp4", "caption": "captions/reel23.txt"}
   },
   "2026-09-10": {
     "am": {"type": "feed", "slides": ["post50_slide1.jpg", "post50_slide2.jpg", "post50_slide3.jpg", "post50_slide4.jpg", "post50_slide5.jpg"], "caption": "captions/post50.txt"},
-    "pm": {"type": "feed", "slides": ["post51_slide1.jpg", "post51_slide2.jpg", "post51_slide3.jpg", "post51_slide4.jpg", "post51_slide5.jpg"], "caption": "captions/post51.txt"}
+    "pm": {"type": "feed", "slides": ["post51_slide1.jpg", "post51_slide2.jpg", "post51_slide3.jpg", "post51_slide4.jpg", "post51_slide5.jpg"], "caption": "captions/post51.txt"},
+    "reel": {"type": "reel", "video": "reel24_thu0910_final.mp4", "caption": "captions/reel24.txt"}
   },
   "2026-09-11": {
     "am": {"type": "feed", "slides": ["post52_slide1.jpg", "post52_slide2.jpg", "post52_slide3.jpg", "post52_slide4.jpg", "post52_slide5.jpg"], "caption": "captions/post52.txt"},
-    "pm": {"type": "feed", "slides": ["post53_slide1.jpg", "post53_slide2.jpg", "post53_slide3.jpg", "post53_slide4.jpg", "post53_slide5.jpg"], "caption": "captions/post53.txt"}
+    "pm": {"type": "feed", "slides": ["post53_slide1.jpg", "post53_slide2.jpg", "post53_slide3.jpg", "post53_slide4.jpg", "post53_slide5.jpg"], "caption": "captions/post53.txt"},
+    "reel": {"type": "reel", "video": "reel25_fri0911_final.mp4", "caption": "captions/reel25.txt"}
   },
   "2026-09-12": {
     "am": {"type": "feed", "slides": ["post54_slide1.jpg", "post54_slide2.jpg", "post54_slide3.jpg", "post54_slide4.jpg", "post54_slide5.jpg"], "caption": "captions/post54.txt"},
-    "pm": {"type": "feed", "slides": ["post55_slide1.jpg", "post55_slide2.jpg", "post55_slide3.jpg", "post55_slide4.jpg", "post55_slide5.jpg"], "caption": "captions/post55.txt"}
+    "pm": {"type": "feed", "slides": ["post55_slide1.jpg", "post55_slide2.jpg", "post55_slide3.jpg", "post55_slide4.jpg", "post55_slide5.jpg"], "caption": "captions/post55.txt"},
+    "reel": {"type": "reel", "video": "reel26_sat0912_final.mp4", "caption": "captions/reel26.txt"}
   }
 }
