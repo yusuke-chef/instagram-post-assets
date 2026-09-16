@@ -456,6 +456,11 @@
         "post71_slide5.jpg"
       ],
       "caption": "captions/post71.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel34_final.mp4",
+      "caption": "captions/reel34.txt"
     }
   },
   "2026-09-21": {
@@ -480,6 +485,11 @@
         "post73_slide5.jpg"
       ],
       "caption": "captions/post73.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel35_final.mp4",
+      "caption": "captions/reel35.txt"
     }
   },
   "2026-09-22": {
@@ -504,6 +514,11 @@
         "post75_slide5.jpg"
       ],
       "caption": "captions/post75.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel36_final.mp4",
+      "caption": "captions/reel36.txt"
     }
   },
   "2026-09-23": {
@@ -528,6 +543,11 @@
         "post77_slide5.jpg"
       ],
       "caption": "captions/post77.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel37_final.mp4",
+      "caption": "captions/reel37.txt"
     }
   },
   "2026-09-24": {
@@ -552,6 +572,11 @@
         "post79_slide5.jpg"
       ],
       "caption": "captions/post79.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel38_final.mp4",
+      "caption": "captions/reel38.txt"
     }
   },
   "2026-09-25": {
@@ -576,6 +601,11 @@
         "post81_slide5.jpg"
       ],
       "caption": "captions/post81.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel39_final.mp4",
+      "caption": "captions/reel39.txt"
     }
   },
   "2026-09-26": {
@@ -600,6 +630,11 @@
         "post83_slide5.jpg"
       ],
       "caption": "captions/post83.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel40_final.mp4",
+      "caption": "captions/reel40.txt"
     }
   },
   "2026-09-27": {
