@@ -659,6 +659,11 @@
         "post85_slide5.jpg"
       ],
       "caption": "captions/post85.txt"
+    },
+    "reel": {
+      "type": "reel",
+      "video": "reel41_final.mp4",
+      "caption": "captions/reel41.txt"
     }
   }
 }
