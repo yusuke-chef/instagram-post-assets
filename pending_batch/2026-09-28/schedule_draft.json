@@ -1,0 +1,42 @@
+{
+  "2026-09-28": {
+    "am": { "post": 86, "caption": "captions/post86.txt", "prompts": "prompts/post86_prompts.txt" },
+    "pm": { "post": 87, "caption": "captions/post87.txt", "prompts": "prompts/post87_prompts.txt" },
+    "reel": { "reel": 42, "script": "reel_scripts.md#reel42" }
+  },
+  "2026-09-29": {
+    "am": { "post": 88, "caption": "captions/post88.txt", "prompts": "prompts/post88_prompts.txt" },
+    "pm": { "post": 89, "caption": "captions/post89.txt", "prompts": "prompts/post89_prompts.txt" },
+    "reel": { "reel": 43, "script": "reel_scripts.md#reel43" }
+  },
+  "2026-09-30": {
+    "am": { "post": 90, "caption": "captions/post90.txt", "prompts": "prompts/post90_prompts.txt" },
+    "pm": { "post": 91, "caption": "captions/post91.txt", "prompts": "prompts/post91_prompts.txt" },
+    "reel": { "reel": 44, "script": "reel_scripts.md#reel44" }
+  },
+  "2026-10-01": {
+    "am": { "post": 92, "caption": "captions/post92.txt", "prompts": "prompts/post92_prompts.txt" },
+    "pm": { "post": 93, "caption": "captions/post93.txt", "prompts": "prompts/post93_prompts.txt" },
+    "reel": { "reel": 45, "script": "reel_scripts.md#reel45" }
+  },
+  "2026-10-02": {
+    "am": { "post": 94, "caption": "captions/post94.txt", "prompts": "prompts/post94_prompts.txt" },
+    "pm": { "post": 95, "caption": "captions/post95.txt", "prompts": "prompts/post95_prompts.txt" },
+    "reel": { "reel": 46, "script": "reel_scripts.md#reel46" }
+  },
+  "2026-10-03": {
+    "am": { "post": 96, "caption": "captions/post96.txt", "prompts": "prompts/post96_prompts.txt" },
+    "pm": { "post": 97, "caption": "captions/post97.txt", "prompts": "prompts/post97_prompts.txt" },
+    "reel": { "reel": 47, "script": "reel_scripts.md#reel47" }
+  },
+  "2026-10-04": {
+    "am": { "post": 98, "caption": "captions/post98.txt", "prompts": "prompts/post98_prompts.txt" },
+    "pm": { "post": 99, "caption": "captions/post99.txt", "prompts": "prompts/post99_prompts.txt" },
+    "reel": { "reel": 48, "script": "reel_scripts.md#reel48" }
+  },
+  "2026-10-05": {
+    "am": { "post": 100, "caption": "captions/post100.txt", "prompts": "prompts/post100_prompts.txt" },
+    "pm": { "post": 101, "caption": "captions/post101.txt", "prompts": "prompts/post101_prompts.txt" },
+    "reel": { "reel": 49, "script": "reel_scripts.md#reel49" }
+  }
+}
