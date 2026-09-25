@@ -630,11 +630,6 @@
         "post83_slide5.jpg"
       ],
       "caption": "captions/post83.txt"
-    },
-    "reel": {
-      "type": "reel",
-      "video": "reel40_final.mp4",
-      "caption": "captions/reel40.txt"
     }
   },
   "2026-09-27": {
@@ -659,11 +654,6 @@
         "post85_slide5.jpg"
       ],
       "caption": "captions/post85.txt"
-    },
-    "reel": {
-      "type": "reel",
-      "video": "reel41_final.mp4",
-      "caption": "captions/reel41.txt"
     }
   }
 }
