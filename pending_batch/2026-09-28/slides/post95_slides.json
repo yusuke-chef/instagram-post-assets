@@ -1,0 +1,146 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's knife roll unrolled on a dark wooden table, gleaming knives and a worn wooden cutting board, warm spotlight",
+   "heading": [
+    [
+     {
+      "t": "変えない道具が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "支えるもの",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's knife roll unrolled on a dark wooden table, gleaming knives and a worn wooden cutting board, warm spotlight",
+   "heading": [
+    [
+     {
+      "t": "設備は毎回",
+      "c": "white"
+     },
+     {
+      "t": "違っても",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 包丁とまな板",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "だけは持参",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef's knife roll unrolled on a dark wooden table, gleaming knives and a worn wooden cutting board, warm spotlight",
+   "heading": [
+    [
+     {
+      "t": "手元だけは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変えたくない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 力加減が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "微妙に狂う",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef's knife roll unrolled on a dark wooden table, gleaming knives and a worn wooden cutting board, warm spotlight",
+   "heading": [
+    [
+     {
+      "t": "変えない事が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "支える安定",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 環境が変わる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "からこそ大切",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a chef's knife roll unrolled on a dark wooden table, gleaming knives and a worn wooden cutting board, warm spotlight",
+   "heading": [
+    [
+     {
+      "t": "変えない軸を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "これからも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "持ち続けます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

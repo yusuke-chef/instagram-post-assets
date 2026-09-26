@@ -1,0 +1,144 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a long dining table set for a large family celebration with multiple place settings of varying sizes, warm candlelight glow",
+   "heading": [
+    [
+     {
+      "t": "三世代が囲む",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ食卓",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a long dining table set for a large family celebration with multiple place settings of varying sizes, warm candlelight glow",
+   "heading": [
+    [
+     {
+      "t": "世代も好みも",
+      "c": "white"
+     },
+     {
+      "t": "様々な席",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 全員満足の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一皿は難しい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a long dining table set for a large family celebration with multiple place settings of varying sizes, warm candlelight glow",
+   "heading": [
+    [
+     {
+      "t": "正解より",
+      "c": "white"
+     },
+     {
+      "t": "選べる余地",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 量や濃さに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "幅を持たせる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a long dining table set for a large family celebration with multiple place settings of varying sizes, warm candlelight glow",
+   "heading": [
+    [
+     {
+      "t": "世代を超えて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "流れる空気",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 壊さないこと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "も役目",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a long dining table set for a large family celebration with multiple place settings of varying sizes, warm candlelight glow",
+   "heading": [
+    [
+     {
+      "t": "世代を超える食卓を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "これからも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "支えていきます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

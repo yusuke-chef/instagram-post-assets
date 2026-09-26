@@ -1,0 +1,144 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a stack of neatly organized papers and a calculator beside a simple elegant coffee cup on a polished desk, warm morning light",
+   "heading": [
+    [
+     {
+      "t": "包丁とは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "別の技術",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a stack of neatly organized papers and a calculator beside a simple elegant coffee cup on a polished desk, warm morning light",
+   "heading": [
+    [
+     {
+      "t": "厨房と経営は",
+      "c": "white"
+     },
+     {
+      "t": "別の技術",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 数字の管理も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "必要な力",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a stack of neatly organized papers and a calculator beside a simple elegant coffee cup on a polished desk, warm morning light",
+   "heading": [
+    [
+     {
+      "t": "分からぬ事を",
+      "c": "white"
+     },
+     {
+      "t": "恥じない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 専門家に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相談する勇気",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a stack of neatly organized papers and a calculator beside a simple elegant coffee cup on a polished desk, warm morning light",
+   "heading": [
+    [
+     {
+      "t": "腕だけでは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "続かない会社",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 経営の学びも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じだけ必要",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a stack of neatly organized papers and a calculator beside a simple elegant coffee cup on a polished desk, warm morning light",
+   "heading": [
+    [
+     {
+      "t": "包丁だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "数字にも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "向き合い続けます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

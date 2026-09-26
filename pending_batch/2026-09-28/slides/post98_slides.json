@@ -1,0 +1,146 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a wooden crate overflowing with fresh seasonal vegetables and fruits on a rustic marble counter, soft natural light",
+   "heading": [
+    [
+     {
+      "t": "五感で選ぶ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "旬の食材",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a wooden crate overflowing with fresh seasonal vegetables and fruits on a rustic marble counter, soft natural light",
+   "heading": [
+    [
+     {
+      "t": "市場で感じる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "季節の変化",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 香りや手触り",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "から読む旬",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a wooden crate overflowing with fresh seasonal vegetables and fruits on a rustic marble counter, soft natural light",
+   "heading": [
+    [
+     {
+      "t": "数字にはない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "情報がある",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ カタログでは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "分からない事",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a wooden crate overflowing with fresh seasonal vegetables and fruits on a rustic marble counter, soft natural light",
+   "heading": [
+    [
+     {
+      "t": "感覚を",
+      "c": "white"
+     },
+     {
+      "t": "鈍らせない習慣",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 五感で選ぶ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "食材がすべて",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a wooden crate overflowing with fresh seasonal vegetables and fruits on a rustic marble counter, soft natural light",
+   "heading": [
+    [
+     {
+      "t": "五感を使う仕事を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "これからも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "続けていきます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a neatly packed travel case with folded linens and a wrapped knife roll on a polished wood bench, soft morning window light",
+   "heading": [
+    [
+     {
+      "t": "遠くまで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "呼ばれる意味",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a neatly packed travel case with folded linens and a wrapped knife roll on a polished wood bench, soft morning window light",
+   "heading": [
+    [
+     {
+      "t": "前日から",
+      "c": "white"
+     },
+     {
+      "t": "機材確認",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 現地では",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "調達できない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a neatly packed travel case with folded linens and a wrapped knife roll on a polished wood bench, soft morning window light",
+   "heading": [
+    [
+     {
+      "t": "移動より",
+      "c": "white"
+     },
+     {
+      "t": "大切な段取り",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 到着してから",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "慌てない準備",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a neatly packed travel case with folded linens and a wrapped knife roll on a polished wood bench, soft morning window light",
+   "heading": [
+    [
+     {
+      "t": "遠くまで",
+      "c": "white"
+     },
+     {
+      "t": "呼ばれる光栄",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ その気持ちに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "応える準備",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a neatly packed travel case with folded linens and a wrapped knife roll on a polished wood bench, soft morning window light",
+   "heading": [
+    [
+     {
+      "t": "呼んでいただける",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "限り",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "応え続けます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

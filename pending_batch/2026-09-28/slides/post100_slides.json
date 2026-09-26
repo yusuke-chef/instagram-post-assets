@@ -1,0 +1,148 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "warm sunset light streaming across an elegant empty dining room with rows of set tables, a quiet reflective atmosphere",
+   "heading": [
+    [
+     {
+      "t": "積み重ねた",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "百の気づき",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "warm sunset light streaming across an elegant empty dining room with rows of set tables, a quiet reflective atmosphere",
+   "heading": [
+    [
+     {
+      "t": "積み重ねた",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "小さな気づき",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 書き出して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "初めて分かる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "warm sunset light streaming across an elegant empty dining room with rows of set tables, a quiet reflective atmosphere",
+   "heading": [
+    [
+     {
+      "t": "現場が中心の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "日々の中で",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言葉にする",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時間も大切",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "warm sunset light streaming across an elegant empty dining room with rows of set tables, a quiet reflective atmosphere",
+   "heading": [
+    [
+     {
+      "t": "続ける意味は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "続けて分かる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ これからも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気づきを大切に",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "warm sunset light streaming across an elegant empty dining room with rows of set tables, a quiet reflective atmosphere",
+   "heading": [
+    [
+     {
+      "t": "積み重ねた気づきを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "これからも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "現場に生かします",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

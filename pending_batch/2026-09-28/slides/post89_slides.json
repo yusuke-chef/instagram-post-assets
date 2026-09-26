@@ -1,0 +1,144 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "an elegant arrangement of empty fine porcelain and gold-rimmed plates stacked on a dark wood sideboard, warm highlighted textures",
+   "heading": [
+    [
+     {
+      "t": "器ひとつにも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "込める心",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "an elegant arrangement of empty fine porcelain and gold-rimmed plates stacked on a dark wood sideboard, warm highlighted textures",
+   "heading": [
+    [
+     {
+      "t": "味と同じ",
+      "c": "white"
+     },
+     {
+      "t": "時間をかける",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 器ひとつで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変わる印象",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "an elegant arrangement of empty fine porcelain and gold-rimmed plates stacked on a dark wood sideboard, warm highlighted textures",
+   "heading": [
+    [
+     {
+      "t": "写真映えより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "食べやすさ",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 見た目だけ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "追わない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "an elegant arrangement of empty fine porcelain and gold-rimmed plates stacked on a dark wood sideboard, warm highlighted textures",
+   "heading": [
+    [
+     {
+      "t": "美しさと",
+      "c": "white"
+     },
+     {
+      "t": "実用性の両立",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 腕の見せ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どころです",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "an elegant arrangement of empty fine porcelain and gold-rimmed plates stacked on a dark wood sideboard, warm highlighted textures",
+   "heading": [
+    [
+     {
+      "t": "その日の心を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "器にも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "込めていきます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

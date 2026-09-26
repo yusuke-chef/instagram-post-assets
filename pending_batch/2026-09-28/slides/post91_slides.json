@@ -1,0 +1,142 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a spotless stainless steel kitchen counter reflecting warm evening light, a folded white apron neatly placed beside it",
+   "heading": [
+    [
+     {
+      "t": "見えない場所にこそ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "宿る信頼",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a spotless stainless steel kitchen counter reflecting warm evening light, a folded white apron neatly placed beside it",
+   "heading": [
+    [
+     {
+      "t": "終わりまで",
+      "c": "white"
+     },
+     {
+      "t": "含めて仕事",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 元の状態に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "戻すまで",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a spotless stainless steel kitchen counter reflecting warm evening light, a folded white apron neatly placed beside it",
+   "heading": [
+    [
+     {
+      "t": "深夜でも",
+      "c": "white"
+     },
+     {
+      "t": "手を抜かない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 翌朝過ごす",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "人のために",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a spotless stainless steel kitchen counter reflecting warm evening light, a folded white apron neatly placed beside it",
+   "heading": [
+    [
+     {
+      "t": "来た時より",
+      "c": "white"
+     },
+     {
+      "t": "綺麗にして",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 見えない所に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "宿る信頼",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a spotless stainless steel kitchen counter reflecting warm evening light, a folded white apron neatly placed beside it",
+   "heading": [
+    [
+     {
+      "t": "見えない信頼を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "これからも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "積み重ねます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

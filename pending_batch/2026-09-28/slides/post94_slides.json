@@ -1,0 +1,146 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a rain-streaked window beside a beautifully set dining table, soft warm interior light contrasting with grey weather outside",
+   "heading": [
+    [
+     {
+      "t": "どんな日も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "味で応える",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a rain-streaked window beside a beautifully set dining table, soft warm interior light contrasting with grey weather outside",
+   "heading": [
+    [
+     {
+      "t": "食材が",
+      "c": "white"
+     },
+     {
+      "t": "入らない日も",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 慌てず手元の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "もので最善",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a rain-streaked window beside a beautifully set dining table, soft warm interior light contrasting with grey weather outside",
+   "heading": [
+    [
+     {
+      "t": "こだわりより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "柔軟な判断",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 無理に戻さず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最善を選ぶ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a rain-streaked window beside a beautifully set dining table, soft warm interior light contrasting with grey weather outside",
+   "heading": [
+    [
+     {
+      "t": "言い訳せず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕上げる一皿",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 目の前の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一皿で応える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a rain-streaked window beside a beautifully set dining table, soft warm interior light contrasting with grey weather outside",
+   "heading": [
+    [
+     {
+      "t": "どんな日も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "味で",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "応え続けます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

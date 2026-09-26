@@ -1,0 +1,144 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a single lit candle on a formally set table during a soft power-outage ambience, warm glow against dark elegant surroundings",
+   "heading": [
+    [
+     {
+      "t": "静かな備えが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼を守る",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a single lit candle on a formally set table during a soft power-outage ambience, warm glow against dark elegant surroundings",
+   "heading": [
+    [
+     {
+      "t": "起きる前に",
+      "c": "white"
+     },
+     {
+      "t": "備える発想",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 小さなミスが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信用に直結",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a single lit candle on a formally set table during a soft power-outage ambience, warm glow against dark elegant surroundings",
+   "heading": [
+    [
+     {
+      "t": "地味な準備が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "分ける結果",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 保険や連絡",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "体制の整備",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a single lit candle on a formally set table during a soft power-outage ambience, warm glow against dark elegant surroundings",
+   "heading": [
+    [
+     {
+      "t": "派手さより",
+      "c": "white"
+     },
+     {
+      "t": "静かな備え",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 見えぬ投資を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "惜しまない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a single lit candle on a formally set table during a soft power-outage ambience, warm glow against dark elegant surroundings",
+   "heading": [
+    [
+     {
+      "t": "静かな備えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "これからも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "怠りません",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

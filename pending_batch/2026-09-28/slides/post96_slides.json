@@ -1,0 +1,144 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a warmly lit professional kitchen pass counter with neatly arranged plates ready for service, soft glow from overhead lighting",
+   "heading": [
+    [
+     {
+      "t": "現場の空気も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "経営の一部",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a warmly lit professional kitchen pass counter with neatly arranged plates ready for service, soft glow from overhead lighting",
+   "heading": [
+    [
+     {
+      "t": "技術指導と",
+      "c": "white"
+     },
+     {
+      "t": "同じ声かけ",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ うまくいけば",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言葉で伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a warmly lit professional kitchen pass counter with neatly arranged plates ready for service, soft glow from overhead lighting",
+   "heading": [
+    [
+     {
+      "t": "結果よりも",
+      "c": "white"
+     },
+     {
+      "t": "過程を見る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 忙しくても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "余裕を持つ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a warmly lit professional kitchen pass counter with neatly arranged plates ready for service, soft glow from overhead lighting",
+   "heading": [
+    [
+     {
+      "t": "チームの空気",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "料理に表れる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 現場づくりも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "経営の一部",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warmly lit professional kitchen pass counter with neatly arranged plates ready for service, soft glow from overhead lighting",
+   "heading": [
+    [
+     {
+      "t": "現場の空気づくりを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "これからも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "大切にします",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

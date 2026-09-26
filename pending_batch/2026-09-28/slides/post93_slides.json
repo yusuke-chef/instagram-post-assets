@@ -1,0 +1,146 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a small leather-bound ledger and a fountain pen resting beside a simple elegant plated dish on a marble table",
+   "heading": [
+    [
+     {
+      "t": "こだわりと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "数字の両立",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a small leather-bound ledger and a fountain pen resting beside a simple elegant plated dish on a marble table",
+   "heading": [
+    [
+     {
+      "t": "こだわり先行",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "だった日々",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 利益がほぼ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "残らない月",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a small leather-bound ledger and a fountain pen resting beside a simple elegant plated dish on a marble table",
+   "heading": [
+    [
+     {
+      "t": "質はそのまま",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "無駄を減らす",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 仕入れ先との",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "付き合い方",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a small leather-bound ledger and a fountain pen resting beside a simple elegant plated dish on a marble table",
+   "heading": [
+    [
+     {
+      "t": "こだわりと",
+      "c": "white"
+     },
+     {
+      "t": "数字の両立",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ どちらも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "犠牲にしない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a small leather-bound ledger and a fountain pen resting beside a simple elegant plated dish on a marble table",
+   "heading": [
+    [
+     {
+      "t": "こだわりと数字",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どちらも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "諦めません",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

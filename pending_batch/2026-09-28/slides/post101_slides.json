@@ -1,0 +1,148 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a mentor's and an apprentice's knife rolls placed side by side on a dark wood counter, warm golden light, a sense of passing tradition",
+   "heading": [
+    [
+     {
+      "t": "一人では",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "届かない場所",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a mentor's and an apprentice's knife rolls placed side by side on a dark wood counter, warm golden light, a sense of passing tradition",
+   "heading": [
+    [
+     {
+      "t": "一人でできる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "件数には限界",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 仲間を増やす",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "必要を感じる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a mentor's and an apprentice's knife rolls placed side by side on a dark wood counter, warm golden light, a sense of passing tradition",
+   "heading": [
+    [
+     {
+      "t": "技術に加え",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "考え方も伝承",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 経営の視点も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝えたい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a mentor's and an apprentice's knife rolls placed side by side on a dark wood counter, warm golden light, a sense of passing tradition",
+   "heading": [
+    [
+     {
+      "t": "教わった事を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の世代へ",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 自分にできる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "恩返しの形",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a mentor's and an apprentice's knife rolls placed side by side on a dark wood counter, warm golden light, a sense of passing tradition",
+   "heading": [
+    [
+     {
+      "t": "一人ではなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仲間と共に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "育てていきます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

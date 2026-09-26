@@ -1,0 +1,144 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "two sets of chef knives resting side by side on a dark wooden cutting board, one traditional and one newer, warm directional light",
+   "heading": [
+    [
+     {
+      "t": "技術は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "引き継ぐもの",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "two sets of chef knives resting side by side on a dark wooden cutting board, one traditional and one newer, warm directional light",
+   "heading": [
+    [
+     {
+      "t": "一人では",
+      "c": "white"
+     },
+     {
+      "t": "限りがある",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 対応できる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "件数の限界",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "two sets of chef knives resting side by side on a dark wooden cutting board, one traditional and one newer, warm directional light",
+   "heading": [
+    [
+     {
+      "t": "手順よりも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理由を伝える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 分かれば",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "応用が利く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "two sets of chef knives resting side by side on a dark wooden cutting board, one traditional and one newer, warm directional light",
+   "heading": [
+    [
+     {
+      "t": "独り占め",
+      "c": "white"
+     },
+     {
+      "t": "しない技術",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 業界全体の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "成長のため",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "two sets of chef knives resting side by side on a dark wooden cutting board, one traditional and one newer, warm directional light",
+   "heading": [
+    [
+     {
+      "t": "受け継いだ技術を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の世代へ",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "渡していきます",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

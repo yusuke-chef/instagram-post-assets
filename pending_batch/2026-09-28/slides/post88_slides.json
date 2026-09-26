@@ -1,0 +1,144 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a warmly lit dining table set for a family gathering with a vintage clock on the wall in the background, soft afternoon light",
+   "heading": [
+    [
+     {
+      "t": "何年も見てきた",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "小さな変化",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a warmly lit dining table set for a family gathering with a vintage clock on the wall in the background, soft afternoon light",
+   "heading": [
+    [
+     {
+      "t": "何年も",
+      "c": "white"
+     },
+     {
+      "t": "通う変化",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ お子様の成長",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "間近で",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a warmly lit dining table set for a family gathering with a vintage clock on the wall in the background, soft afternoon light",
+   "heading": [
+    [
+     {
+      "t": "好みの変化に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気づく距離",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 薄味を好む",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ように",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a warmly lit dining table set for a family gathering with a vintage clock on the wall in the background, soft afternoon light",
+   "heading": [
+    [
+     {
+      "t": "積み重ねが",
+      "c": "white"
+     },
+     {
+      "t": "作る関係",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 取引でない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "つながり",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warmly lit dining table set for a family gathering with a vintage clock on the wall in the background, soft afternoon light",
+   "heading": [
+    [
+     {
+      "t": "この距離感を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "これからも",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "大切にします",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

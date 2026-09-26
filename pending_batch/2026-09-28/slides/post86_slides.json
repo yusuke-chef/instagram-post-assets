@@ -1,0 +1,142 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a beautifully plated dish beside a small basket of fresh vegetables and herbs on a marble countertop, soft morning light",
+   "heading": [
+    [
+     {
+      "t": "同じ食卓を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ笑顔で",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a beautifully plated dish beside a small basket of fresh vegetables and herbs on a marble countertop, soft morning light",
+   "heading": [
+    [
+     {
+      "t": "確認は",
+      "c": "white"
+     },
+     {
+      "t": "契約前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 後から発覚",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "対応に限界",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a beautifully plated dish beside a small basket of fresh vegetables and herbs on a marble countertop, soft morning light",
+   "heading": [
+    [
+     {
+      "t": "代替食材も",
+      "c": "white"
+     },
+     {
+      "t": "妥協しない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 見た目も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "味も同じ水準",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a beautifully plated dish beside a small basket of fresh vegetables and herbs on a marble countertop, soft morning light",
+   "heading": [
+    [
+     {
+      "t": "同じ食卓を",
+      "c": "white"
+     },
+     {
+      "t": "同じように",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 特別扱いに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "しない工夫",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a beautifully plated dish beside a small basket of fresh vegetables and herbs on a marble countertop, soft morning light",
+   "heading": [
+    [
+     {
+      "t": "同じ食卓で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じように",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "笑っていただきたい",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}
