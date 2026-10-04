@@ -35,44 +35,33 @@ def load_today_schedule(today_str):
     return data.get(today_str)
 
 
-def slot_for_now(hour):
-    # 7:30/12:00/19:00 JSTの実行タイミングに合わせて判定。多少のズレは許容する。
-    if 6 <= hour < 11:
-        return "am"
-    if 11 <= hour < 17:
-        return "pm"
-    if 17 <= hour < 23:
-        return "reel"
-    return None
+# 各枠の予定時刻(JST)。GitHub Actionsの定期実行は数時間遅れることがあるため(2026-08-27以降の実測で
+# 朝枠が約2時間、昼枠が約5時間遅れ)、実行時刻で枠を決めず「予定時刻を過ぎている未投稿の枠」をすべて投稿する。
+SLOT_TIMES = {"am": (7, 45), "pm": (12, 45), "reel": (19, 15)}
 
 
-def already_posted(product_type, today_str, slot, expected_caption):
-    """product_typeとその日付が一致するだけでなく、FEEDの場合はam/pmの枠まで区別する。
-    区別しないと「AM枠が済んでいればPM枠も済んだこと」に誤判定されるバグがあった（2026-08-21〜23で実際に発生、
-    post19/post23が誤ってスキップされた）。
+def due_slots(now):
+    return [s for s, (h, m) in SLOT_TIMES.items() if (now.hour, now.minute) >= (h, m)]
 
-    さらに、日付・時間帯が一致するだけでなく、実際のキャプション本文が今日の予定コンテンツと一致するかまで
-    確認する。これが無いと、別日の欠落分を当日朝に手動復旧した投稿が「今日の予定枠」と誤認識され、
-    本来の予定枠がスキップされる事故が起きる（2026-08-24に実際に発生、post24が誤ってスキップされた）。"""
+
+def already_posted(product_type, expected_caption):
+    """直近のメディアの中に、種類(FEED/REELS)と本文が完全一致する投稿があれば投稿済みとみなす。
+    2026-10-04の改修: 従来は「投稿時刻が10時前ならam、以降ならpm」で枠を判定していたが、
+    GitHub Actionsの定期実行が数時間遅れるため、遅れて投稿したamが「pm」と誤判定される余地があった。
+    本文は投稿ごとに固有なので、本文一致だけで冪等性は十分に保てる。"""
     r = requests.get(
         f"{BASE}/{IG_ID}/media",
-        params={"fields": "id,timestamp,media_product_type,caption", "limit": 15, "access_token": TOKEN},
+        params={"fields": "id,timestamp,media_product_type,caption", "limit": 40, "access_token": TOKEN},
         timeout=30,
     ).json()
-    for m in r.get("data", []):
+    if "data" not in r:
+        print(f"FAILED: 直近投稿の取得に失敗しました(二重投稿を避けるため中止します)。Response: {r}")
+        sys.exit(1)
+    for m in r["data"]:
         if m.get("media_product_type") != product_type:
             continue
-        ts = datetime.datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
-        jst = ts.astimezone(JST)
-        if jst.strftime("%Y-%m-%d") != today_str:
-            continue
-        if product_type == "FEED":
-            post_slot = "am" if jst.hour < 10 else "pm"
-            if post_slot != slot:
-                continue
-        if (m.get("caption") or "").strip() != expected_caption.strip():
-            continue
-        return True
+        if (m.get("caption") or "").strip() == expected_caption.strip():
+            return True
     return False
 
 
@@ -170,30 +159,44 @@ def publish_reel(entry):
 def main():
     today = now_jst()
     today_str = today.strftime("%Y-%m-%d")
-    slot = slot_for_now(today.hour)
-    print(f"TODAY={today_str} HOUR={today.hour} SLOT={slot}")
-
-    if slot is None:
-        print("対象時間外です。何もしません。")
-        return
+    print(f"TODAY={today_str} NOW={today.strftime('%H:%M')} JST")
 
     day_schedule = load_today_schedule(today_str)
-    if not day_schedule or slot not in day_schedule:
-        print(f"本日({today_str})の{slot}枠はスケジュールに登録されていません。新しいバッチ作成が必要です。")
+    due = due_slots(today)
+    if not day_schedule:
+        if due:
+            print(f"ERROR: 本日({today_str})の予約が1件もありません。在庫切れです。新しいバッチ作成が必要です。")
+            sys.exit(1)
         return
 
-    entry = day_schedule[slot]
-    product_type = "REELS" if entry["type"] == "reel" else "FEED"
-    expected_caption = read_caption(entry["caption"])
+    failed = []
+    for slot in ("am", "pm", "reel"):
+        if slot not in due:
+            continue
+        if slot not in day_schedule:
+            if slot != "reel":
+                print(f"ERROR: 本日({today_str})の{slot}枠が予約されていません。")
+                failed.append(slot)
+            continue
+        entry = day_schedule[slot]
+        product_type = "REELS" if entry["type"] == "reel" else "FEED"
+        expected_caption = read_caption(entry["caption"])
 
-    if already_posted(product_type, today_str, slot, expected_caption):
-        print(f"SUCCESS: {slot}枠は本日既に公開済みです。何もしません。")
-        return
+        if already_posted(product_type, expected_caption):
+            print(f"OK: {slot}枠は投稿済みです。")
+            continue
+        print(f"{slot}枠は予定時刻を過ぎていて未投稿のため、投稿します。")
+        try:
+            if entry["type"] == "reel":
+                publish_reel(entry)
+            else:
+                publish_feed(entry)
+        except SystemExit:
+            failed.append(slot)
 
-    if entry["type"] == "reel":
-        publish_reel(entry)
-    else:
-        publish_feed(entry)
+    if failed:
+        print(f"FAILED SLOTS: {failed}")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
