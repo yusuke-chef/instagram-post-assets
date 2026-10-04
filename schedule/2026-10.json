@@ -1,0 +1,194 @@
+{
+  "2026-10-04": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post86_slide1.jpg",
+        "post86_slide2.jpg",
+        "post86_slide3.jpg",
+        "post86_slide4.jpg",
+        "post86_slide5.jpg"
+      ],
+      "caption": "captions/post86.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post87_slide1.jpg",
+        "post87_slide2.jpg",
+        "post87_slide3.jpg",
+        "post87_slide4.jpg",
+        "post87_slide5.jpg"
+      ],
+      "caption": "captions/post87.txt"
+    }
+  },
+  "2026-10-05": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post88_slide1.jpg",
+        "post88_slide2.jpg",
+        "post88_slide3.jpg",
+        "post88_slide4.jpg",
+        "post88_slide5.jpg"
+      ],
+      "caption": "captions/post88.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post89_slide1.jpg",
+        "post89_slide2.jpg",
+        "post89_slide3.jpg",
+        "post89_slide4.jpg",
+        "post89_slide5.jpg"
+      ],
+      "caption": "captions/post89.txt"
+    }
+  },
+  "2026-10-06": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post90_slide1.jpg",
+        "post90_slide2.jpg",
+        "post90_slide3.jpg",
+        "post90_slide4.jpg",
+        "post90_slide5.jpg"
+      ],
+      "caption": "captions/post90.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post91_slide1.jpg",
+        "post91_slide2.jpg",
+        "post91_slide3.jpg",
+        "post91_slide4.jpg",
+        "post91_slide5.jpg"
+      ],
+      "caption": "captions/post91.txt"
+    }
+  },
+  "2026-10-07": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post92_slide1.jpg",
+        "post92_slide2.jpg",
+        "post92_slide3.jpg",
+        "post92_slide4.jpg",
+        "post92_slide5.jpg"
+      ],
+      "caption": "captions/post92.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post93_slide1.jpg",
+        "post93_slide2.jpg",
+        "post93_slide3.jpg",
+        "post93_slide4.jpg",
+        "post93_slide5.jpg"
+      ],
+      "caption": "captions/post93.txt"
+    }
+  },
+  "2026-10-08": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post94_slide1.jpg",
+        "post94_slide2.jpg",
+        "post94_slide3.jpg",
+        "post94_slide4.jpg",
+        "post94_slide5.jpg"
+      ],
+      "caption": "captions/post94.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post95_slide1.jpg",
+        "post95_slide2.jpg",
+        "post95_slide3.jpg",
+        "post95_slide4.jpg",
+        "post95_slide5.jpg"
+      ],
+      "caption": "captions/post95.txt"
+    }
+  },
+  "2026-10-09": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post96_slide1.jpg",
+        "post96_slide2.jpg",
+        "post96_slide3.jpg",
+        "post96_slide4.jpg",
+        "post96_slide5.jpg"
+      ],
+      "caption": "captions/post96.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post97_slide1.jpg",
+        "post97_slide2.jpg",
+        "post97_slide3.jpg",
+        "post97_slide4.jpg",
+        "post97_slide5.jpg"
+      ],
+      "caption": "captions/post97.txt"
+    }
+  },
+  "2026-10-10": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post98_slide1.jpg",
+        "post98_slide2.jpg",
+        "post98_slide3.jpg",
+        "post98_slide4.jpg",
+        "post98_slide5.jpg"
+      ],
+      "caption": "captions/post98.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post99_slide1.jpg",
+        "post99_slide2.jpg",
+        "post99_slide3.jpg",
+        "post99_slide4.jpg",
+        "post99_slide5.jpg"
+      ],
+      "caption": "captions/post99.txt"
+    }
+  },
+  "2026-10-11": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post100_slide1.jpg",
+        "post100_slide2.jpg",
+        "post100_slide3.jpg",
+        "post100_slide4.jpg",
+        "post100_slide5.jpg"
+      ],
+      "caption": "captions/post100.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post101_slide1.jpg",
+        "post101_slide2.jpg",
+        "post101_slide3.jpg",
+        "post101_slide4.jpg",
+        "post101_slide5.jpg"
+      ],
+      "caption": "captions/post101.txt"
+    }
+  }
+}
