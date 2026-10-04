@@ -93,7 +93,7 @@ def main():
         entry = schedule.get(d_str)
         if not entry:
             continue
-        for slot in ("am", "pm", "reel"):
+        for slot in ("am", "pm", "eve", "reel"):
             if slot not in entry:
                 continue
             expected_type = "REELS" if entry[slot]["type"] == "reel" else "FEED"

@@ -37,7 +37,10 @@ def load_today_schedule(today_str):
 
 # 各枠の予定時刻(JST)。GitHub Actionsの定期実行は数時間遅れることがあるため(2026-08-27以降の実測で
 # 朝枠が約2時間、昼枠が約5時間遅れ)、実行時刻で枠を決めず「予定時刻を過ぎている未投稿の枠」をすべて投稿する。
-SLOT_TIMES = {"am": (7, 45), "pm": (12, 45), "reel": (19, 15)}
+# "eve"は夜の追加枠(2026-10-04新設。未投稿だった過去分の再投稿用)。実行が19:15より前(15時以降)に始まった場合は
+# 19:15まで待ってから投稿する(3回目の実行は日付をまたぐことがあり、そこに頼ると取りこぼすため)。
+SLOT_TIMES = {"am": (7, 45), "pm": (12, 45), "eve": (19, 15), "reel": (19, 15)}
+EVE_WAIT_FROM_HOUR = 15
 
 
 def due_slots(now):
@@ -51,7 +54,7 @@ def already_posted(product_type, expected_caption):
     本文は投稿ごとに固有なので、本文一致だけで冪等性は十分に保てる。"""
     r = requests.get(
         f"{BASE}/{IG_ID}/media",
-        params={"fields": "id,timestamp,media_product_type,caption", "limit": 40, "access_token": TOKEN},
+        params={"fields": "id,timestamp,media_product_type,caption", "limit": 100, "access_token": TOKEN},
         timeout=30,
     ).json()
     if "data" not in r:
@@ -170,7 +173,14 @@ def main():
         return
 
     failed = []
-    for slot in ("am", "pm", "reel"):
+    for slot in ("am", "pm", "eve", "reel"):
+        if slot == "eve" and "eve" in day_schedule and "eve" not in due and today.hour >= EVE_WAIT_FROM_HOUR:
+            h, m = SLOT_TIMES["eve"]
+            wait = (h * 60 + m) - (today.hour * 60 + today.minute)
+            print(f"eve枠は{h}:{m:02d}まで{wait}分待ってから投稿します。")
+            time.sleep(wait * 60)
+            today = now_jst()
+            due = due_slots(today)
         if slot not in due:
             continue
         if slot not in day_schedule:
@@ -184,6 +194,9 @@ def main():
 
         if already_posted(product_type, expected_caption):
             print(f"OK: {slot}枠は投稿済みです。")
+            continue
+        if slot == "eve" and already_posted(product_type, expected_caption):  # 待機中に別の実行が投稿していないか再確認
+            print("OK: eve枠は待機中に投稿済みになりました。")
             continue
         print(f"{slot}枠は予定時刻を過ぎていて未投稿のため、投稿します。")
         try:
