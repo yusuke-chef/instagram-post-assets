@@ -1,0 +1,206 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "two people shaking hands across an elegant restaurant table set for a celebration, warm golden evening light",
+   "heading": [
+    [
+     {
+      "t": "「また頼みたい」と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言われる人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一度で終わる人",
+      "c": "gold"
+     },
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a waiter's hands adjusting a place setting with a small candle on a white tablecloth, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "目的",
+      "c": "gold"
+     },
+     {
+      "t": "から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "考えて動く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度で終わる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "頼まれたことだけやる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "また頼まれる人は目的を見る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef and a client talking over a kitchen counter in a bright warm home, seen from behind, golden light",
+   "heading": [
+    [
+     {
+      "t": "始める",
+      "c": "white"
+     },
+     {
+      "t": "前",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "聞いておく",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度で終わる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "問題が起きてから聞く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "また頼まれる人は先に聞く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef carefully wiping a clean stainless counter after service, warm golden evening light, hands only",
+   "heading": [
+    [
+     {
+      "t": "終わった後",
+      "c": "gold"
+     },
+     {
+      "t": "まで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気を抜かない",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度で終わる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "終わった瞬間に気を抜く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "頼まれる人は最後まで丁寧",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "明日",
+      "c": "gold"
+     },
+     {
+      "t": "の仕事前に",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "当てはまる番号",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

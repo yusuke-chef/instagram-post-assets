@@ -1,0 +1,198 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's fingers holding a tiny pinch of salt above a plated dish in a warm kitchen, golden light",
+   "heading": [
+    [
+     {
+      "t": "強い言葉",
+      "c": "gold"
+     },
+     {
+      "t": "ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初に出してはいけない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "料理人が知る言葉の鉄則",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a small glass dish of coarse salt next to a plated dish on a dark wooden counter, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "味は足せても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "引けない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 入れすぎた塩は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "取り出せない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言葉も同じ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef gently seasoning a dish with a spoon, careful and slow, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "最初は",
+      "c": "white"
+     },
+     {
+      "t": "控えめ",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 注意や指摘は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "弱めの言葉から始める",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "取り消せないから",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef tasting from a small spoon while checking a pan, warm golden light, seen from the side",
+   "heading": [
+    [
+     {
+      "t": "反応",
+      "c": "gold"
+     },
+     {
+      "t": "を見て",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "足していく",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 相手の表情を確かめ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "足りなければ後から足す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "それが一番伝わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "言い過ぎた経験、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ありますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}
