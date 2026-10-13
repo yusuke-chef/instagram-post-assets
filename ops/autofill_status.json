@@ -1,8 +1,10 @@
 {
-  "errors": [],
+  "errors": [
+    "想定外のエラー: TypeError: string indices must be integers"
+  ],
   "warnings": [],
   "credits_exhausted": false,
   "scheduled_until": "2026-10-18",
-  "ok": true,
-  "run_at": "2026-10-12T18:00:02+09:00"
+  "ok": false,
+  "run_at": "2026-10-13T12:00:02+09:00"
 }
