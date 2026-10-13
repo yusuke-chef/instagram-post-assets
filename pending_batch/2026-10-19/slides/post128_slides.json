@@ -1,0 +1,192 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a young chef quietly practicing basic knife work under a senior chef's watch, warm golden hotel kitchen light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "下積み",
+      "c": "gold"
+     },
+     {
+      "t": "の意味は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後で分かる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a young chef pausing to think about a reason before acting, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "理由",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分で考える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言われた通り",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理由を考える癖",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a young chef continuing a repetitive basic task patiently, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "分からなくても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "続ける",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 意味が分からない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ことほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後で効いてくる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a senior chef gently asking a young chef a question instead of answering, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "教える側",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "は",
+      "c": "white"
+     },
+     {
+      "t": "「なぜ」",
+      "c": "gold"
+     },
+     {
+      "t": "を問う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 教える立場なら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "答えより先に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "「なぜ」を問う",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "下積みが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "つらい時に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "分からなかったことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

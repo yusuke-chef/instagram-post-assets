@@ -1,0 +1,192 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef looking calmly at their own past work laid on a warm counter, golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "落ち込む人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ち込まない人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef comparing today's dish with last year's quietly, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "見る先",
+      "c": "gold"
+     },
+     {
+      "t": "が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "違う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 落ち込む人は他人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ち込まない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分の去年を見る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef acknowledging one small weak point calmly, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "認める範囲",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "が違う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 落ち込む人は全部",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ち込まない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "苦手な部分だけ認める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef talking calmly with a colleague about a concern, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "話す",
+      "c": "white"
+     },
+     {
+      "t": "か",
+      "c": "white"
+     },
+     {
+      "t": "抱える",
+      "c": "gold"
+     },
+     {
+      "t": "か",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 落ち込む人は一人で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "抱える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "話して整理する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "比べて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ち込んだ時",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "何と比べる癖か",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

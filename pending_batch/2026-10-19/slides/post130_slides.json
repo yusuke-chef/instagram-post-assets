@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef carefully packing personal tools into a bag before heading out, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "本番で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "崩れない人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の準備",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef using familiar personal tools instead of borrowed ones, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "慣れない道具",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "に頼らない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 本番で初めて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "使う道具には",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "頼らない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef adjusting a familiar method slightly to a new kitchen, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "やり方",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "現場で調整",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 慣れたやり方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "現場に合わせて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "少し調整する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef quietly preparing a backup plan before starting, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "代わりの手",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "も考える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ うまくいかない場合",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "の代わりも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に考える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "本番の前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "必ず確認することを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

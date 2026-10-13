@@ -1,0 +1,194 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef tasting a dish carefully from a small spoon before completion, warm golden kitchen light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "指摘",
+      "c": "gold"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "失点でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "「味見」",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef noticing a subtle taste issue calmly while tasting, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "下がった",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "と",
+      "c": "white"
+     },
+     {
+      "t": "思わない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 指摘をもらっても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "完成度が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "下がったと思わない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef nodding gratefully to someone giving feedback, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "まず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "「ありがとう」",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 指摘してくれた人に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "まず感謝を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef adjusting just one small element of a dish carefully, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "一つ",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "絞って直す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 直す場所を一つに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "絞り",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "全部は直さない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "落ち込みそうな",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時に見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "指摘の受け止め方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

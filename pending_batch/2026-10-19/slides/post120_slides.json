@@ -1,0 +1,194 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef looking at a slightly burnt pan calmly under warm kitchen light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "すぐ立て直す人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "引きずる人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef pausing to think calmly after a small mistake, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "原因",
+      "c": "gold"
+     },
+     {
+      "t": "の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "探し方",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 引きずる人は性格",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "立て直す人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕組みに原因を見る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef calmly speaking to a colleague about an issue, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "周り",
+      "c": "white"
+     },
+     {
+      "t": "への",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝え方",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 引きずる人は隠す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "立て直す人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐ共有する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef already preparing the next dish right after a mistake, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "次",
+      "c": "gold"
+     },
+     {
+      "t": "の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "行動の早さ",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 落ち込む前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "立て直す人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の準備を始める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "落ち込んだ時に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたはどちらか",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

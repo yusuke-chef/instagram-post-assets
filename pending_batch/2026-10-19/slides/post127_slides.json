@@ -1,0 +1,192 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef teaching a young staff member kindly at the counter, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "伸びる人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を育てる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "褒め方",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a leader pointing to a specific good detail in a young chef's work, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "過程",
+      "c": "gold"
+     },
+     {
+      "t": "の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "良さを伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 結果だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "過程のどこが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "良かったか伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a leader speaking quietly one on one with a young staff member, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "場面",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "選んで伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 人前か一対一か",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "タイミングを選ぶ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a leader handing over a small new task warmly, golden kitchen light, hands only",
+   "heading": [
+    [
+     {
+      "t": "次の課題",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を",
+      "c": "white"
+     },
+     {
+      "t": "一つ",
+      "c": "gold"
+     },
+     {
+      "t": "渡す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 褒めたあとに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の課題を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一つだけ渡す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "誰かを褒める",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "前に見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "人の褒め方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

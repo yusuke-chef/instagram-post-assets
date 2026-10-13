@@ -1,0 +1,194 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's hands arranging ingredients in order on a warm wooden counter, golden morning light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "仕事が重なる時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初に決める",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "のは順番でなく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a hand circling one item among several on a bright counter, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "今日中",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初に決める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 終わらないと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "困ることを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初に選ぶ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "ingredients set aside on the edge of a counter, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "取り返せる",
+      "c": "white"
+     },
+     {
+      "t": "こと",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "は後回し",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 後からでも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "取り返せることは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "思い切って後回し",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef checking a small handwritten order note by a warm lamp, no readable text implied",
+   "heading": [
+    [
+     {
+      "t": "決めた",
+      "c": "white"
+     },
+     {
+      "t": "順番",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を変えない",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 相談されても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決めた順番は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "簡単に変えない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "追われそうな",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "朝に見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "優先順位の基準を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

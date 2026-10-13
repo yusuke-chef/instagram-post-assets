@@ -1,0 +1,202 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef carefully sharpening a knife on a whetstone, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "切れない包丁",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "危ないものはない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef inspecting a knife blade closely under warm light, hands only",
+   "heading": [
+    [
+     {
+      "t": "結果",
+      "c": "white"
+     },
+     {
+      "t": "が出る時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "こそ",
+      "c": "gold"
+     },
+     {
+      "t": "手入れ",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 調子が良い時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "手入れを怠らない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef cleaning a knife carefully after use, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "道具",
+      "c": "white"
+     },
+     {
+      "t": "でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分",
+      "c": "gold"
+     },
+     {
+      "t": "を疑う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 道具のせいにする前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分の手入れを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "疑う",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef quietly organizing tools in a drawer, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "見えない所",
+      "c": "white"
+     },
+     {
+      "t": "で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "続ける",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 小さな基本ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見えない場所で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "続ける",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "基本を怠りそう",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "な時に見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "大事にする基本を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

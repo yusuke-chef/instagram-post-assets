@@ -1,0 +1,188 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef pausing with a knife in hand, deciding calmly, warm golden kitchen light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "迷った時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決める前",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "にやること",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef setting a single ingredient as the standard on a counter, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "基準",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に決める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 味か時間か",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "基準が曖昧だと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "何度も迷う",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef closing a recipe book and relying on instinct, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "情報",
+      "c": "white"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "集めすぎない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 集めるほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決められなくなる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef jotting a short note by a warm lamp, no readable text implied, hands only",
+   "heading": [
+    [
+     {
+      "t": "理由",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "メモしておく",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 決めたら理由を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一言メモして",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ迷いを防ぐ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "迷った時に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "決める基準を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

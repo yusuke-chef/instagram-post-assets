@@ -1,0 +1,198 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a cooked piece of meat resting on a warm wooden board before slicing, golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "結果が出ない時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "肉を",
+      "c": "gold"
+     },
+     {
+      "t": "休ませる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "考え方",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hand letting a cooked dish rest untouched on a counter, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "休む",
+      "c": "gold"
+     },
+     {
+      "t": "のは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕上げる工程",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 手を止めるのは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "サボりではない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕上げの一部",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef glancing at a clock while a dish rests, calm warm kitchen light",
+   "heading": [
+    [
+     {
+      "t": "疲れる前",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "休むこと",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 疲れきってから",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ではなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ち着く時に休む",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef quietly preparing the next ingredients while another dish rests, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "休みながら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次",
+      "c": "gold"
+     },
+     {
+      "t": "を進める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 休んでいる間も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の準備は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "止めない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "罪悪感を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "覚えた時に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの休み方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef listening carefully to a client across a warm kitchen counter, golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "仕事を受ける前",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "必ず聞く",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "こと",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef listening quietly without interrupting, warm golden light, seen from the side",
+   "heading": [
+    [
+     {
+      "t": "口を挟まず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最後まで",
+      "c": "gold"
+     },
+     {
+      "t": "聞く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 話し終えるまで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "口を挟まない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef nodding and repeating back a point calmly, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "聞いたこと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を",
+      "c": "white"
+     },
+     {
+      "t": "復唱",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ その場で復唱して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "認識のずれを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "なくす",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef gently asking a careful question before starting, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "聞きにくい",
+      "c": "gold"
+     },
+     {
+      "t": "こと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ほど先に",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 聞きにくいことほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に確認する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "仕事を受ける",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "前に見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "最初に確認すること",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

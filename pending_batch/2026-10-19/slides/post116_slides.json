@@ -1,0 +1,194 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "two people meeting for the first time at an elegant doorway, warm golden entrance light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "初対面で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼される人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "されない人",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a host's hands opening a door warmly with soft golden light, warm tones",
+   "heading": [
+    [
+     {
+      "t": "会う前",
+      "c": "gold"
+     },
+     {
+      "t": "の準備",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "で決まる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 信頼されない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "会ってから確認",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼される人は先に準備",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef explaining a plan calmly at a bright table, warm golden light, hands gesturing",
+   "heading": [
+    [
+     {
+      "t": "結果",
+      "c": "gold"
+     },
+     {
+      "t": "より",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "進め方を話す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 信頼されない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "結果だけを話す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼される人は過程も話す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef pausing thoughtfully before answering, warm kitchen light, hands only",
+   "heading": [
+    [
+     {
+      "t": "知ったか",
+      "c": "white"
+     },
+     {
+      "t": "ぶり",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "をしない",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 信頼されない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "分からず答える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼される人は確認して答える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "次に初めて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "会う前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "信頼の作り方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

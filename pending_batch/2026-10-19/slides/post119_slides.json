@@ -1,0 +1,192 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef leading a small kitchen team, warm golden light, seen from behind, no readable text",
+   "heading": [
+    [
+     {
+      "t": "慕われる",
+      "c": "gold"
+     },
+     {
+      "t": "リーダー",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "の3つの習慣",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a leader working alongside the team at the counter, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "自分",
+      "c": "gold"
+     },
+     {
+      "t": "が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一番に動く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 指示だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分から動く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "姿勢が信頼を作る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a leader quietly demonstrating a small task, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "小さな",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "手本",
+      "c": "gold"
+     },
+     {
+      "t": "を見せる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言葉より",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "普段の所作が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "よく見られている",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a leader nodding and thanking a staff member warmly, golden light, seen from the side",
+   "heading": [
+    [
+     {
+      "t": "感謝",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言葉にする",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ できて当たり前",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "にせず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "きちんと伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "人を率いる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "前に見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "大切にしたい",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "条件を",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

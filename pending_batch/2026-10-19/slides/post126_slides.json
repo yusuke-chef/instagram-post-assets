@@ -1,0 +1,196 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a pan with strong flame scorching the surface of food, warm dramatic kitchen light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "強火",
+      "c": "gold"
+     },
+     {
+      "t": "で急ぐと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "外だけ焦げる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef pausing with hands off the pan, taking a breath, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "動く前",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "に",
+      "c": "white"
+     },
+     {
+      "t": "一呼吸",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 感情的になった",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "瞬間は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐ動かない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef carefully checking a step even while moving quickly, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "急ぐ時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ほど",
+      "c": "white"
+     },
+     {
+      "t": "手順",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 急いでいる時ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認の手順を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "飛ばさない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef speaking calmly after the flame has settled, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "収まって",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "から",
+      "c": "white"
+     },
+     {
+      "t": "言葉",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 感情が収まってから",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ち着いて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言葉を選ぶ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "焦りそうな",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時に見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "焦った時の対処を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

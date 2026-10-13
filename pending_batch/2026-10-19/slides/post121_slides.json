@@ -1,0 +1,196 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef calculating costs quietly with ingredients on a warm wooden table, golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "値段",
+      "c": "white"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "感覚でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "原価意識",
+      "c": "gold"
+     },
+     {
+      "t": "で",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef weighing ingredients carefully, warm golden kitchen light, hands only",
+   "heading": [
+    [
+     {
+      "t": "時間",
+      "c": "gold"
+     },
+     {
+      "t": "も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "原価に含める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 材料費だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "準備の時間まで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "原価に入れる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef offering a dish with a calm confident posture, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "安さ",
+      "c": "white"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "サービスでない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 長く続かない安さは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "意味がない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef explaining a price calmly to a client at a warm table, golden light",
+   "heading": [
+    [
+     {
+      "t": "理由",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "説明できる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 値段の理由を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分の言葉で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "説明できる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "値段に迷う",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時に見返す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "値段の決め方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}
