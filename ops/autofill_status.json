@@ -1,10 +1,10 @@
 {
-  "errors": [
-    "想定外のエラー: TypeError: string indices must be integers"
+  "errors": [],
+  "warnings": [
+    "post129: 完了(QA不合格のまま採用: スライド[4])"
   ],
-  "warnings": [],
   "credits_exhausted": false,
-  "scheduled_until": "2026-10-18",
-  "ok": false,
-  "run_at": "2026-10-14T12:00:02+09:00"
+  "scheduled_until": "2026-10-26",
+  "ok": true,
+  "run_at": "2026-10-14T16:25:48+09:00"
 }
