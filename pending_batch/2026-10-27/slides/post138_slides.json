@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's own knife roll and tools laid neatly on a cloth beside an unfamiliar kitchen counter, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "プロ意識は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "道具の扱い",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "に一番出る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hands unrolling a personal knife case on an unfamiliar counter, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "使い慣れた",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "道具で臨む",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 借りた道具では",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "精度が出ない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分の道具で整える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef carefully wiping and oiling a knife blade after use, warm golden light, close on hands",
+   "heading": [
+    [
+     {
+      "t": "手入れを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "人に任せない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 手入れの状態が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "丁寧さに見える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分で整え続ける",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef's travel case packed with the same set of tools, organized neatly, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "どこでも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ基準",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 基準が変わると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "質もぶれる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "基準を持ち歩く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "人に任せて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "いる道具は",
+      "c": "gold"
+     },
+     {
+      "t": "？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

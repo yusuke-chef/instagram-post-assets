@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a small simple notebook with a single checkmark drawn on a wooden table, warm golden morning light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "習慣が続くかは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初の一歩",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の大きさで決まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef practicing a very small simple step of a new technique alone in a quiet kitchen, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "できない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "レベルまで下げる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一歩が小さいと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "始めやすい",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ハードルを下げる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a simple checkmark being added to a small calendar, warm golden light, no readable text, close on hand only",
+   "heading": [
+    [
+     {
+      "t": "やったか",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "だけ記録する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 出来栄えを見ると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "続けたくなくなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "有無だけ記録する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef calmly returning to practice the next morning after a missed day, warm golden light, fresh start feel",
+   "heading": [
+    [
+     {
+      "t": "休んだ日",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を責めない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 責めると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "再開が遠くなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "責めずに戻ればいい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "最初の一歩、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "十分",
+      "c": "white"
+     },
+     {
+      "t": "小さい？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

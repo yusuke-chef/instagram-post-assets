@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a young chef looking thoughtfully at an old photo of his own past work on a kitchen shelf, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "焦りを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "感じた時、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "誰と比べる？",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef comparing a dish today with a faint memory of an earlier, simpler version, warm golden light, thoughtful mood",
+   "heading": [
+    [
+     {
+      "t": "他人でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "過去の自分",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 他人の今と比べると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "焦るだけ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "過去と比べ気づく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef quietly reviewing the amount of preparation behind a finished dish, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "結果でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "準備の量",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 結果だけ比べると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "続けられない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "準備で比べ続けられる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef writing down one small next step after a moment of reflection, warm golden light, close on hand",
+   "heading": [
+    [
+     {
+      "t": "落ち込むより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の一手",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 落ち込んで終えると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "止まる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一手を決め動く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "今、誰と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "比べて",
+      "c": "white"
+     },
+     {
+      "t": "ますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

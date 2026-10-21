@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a hand writing figures on an estimate sheet beside kitchen ingredients, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "価格は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見えない手間",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "まで含めて決める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef preparing ingredients alone early in the morning before service, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "仕込みの",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時間も含める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 見えない時間を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "省いてしまう",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "含めて初めて正しい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef's well-kept personal tools and knife case on a counter, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "道具と経験",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "への投資",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 目に見えない分",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "省かれやすい",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "価格に含めて守る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef looking tired while writing a lower estimate, warm golden light, muted tone",
+   "heading": [
+    [
+     {
+      "t": "しわ寄せ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "の行き先を見る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 安く受けると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分に返る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先を見て価格を決める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "見えない手間、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "含めて",
+      "c": "white"
+     },
+     {
+      "t": "ますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

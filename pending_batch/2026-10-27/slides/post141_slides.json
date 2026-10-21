@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a kitchen staff member reporting something urgently but calmly to a senior chef, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "悪い報告",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "ほど早く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼が決まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a cook noticing a small problem early and immediately stepping toward a senior chef, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "悪化する前",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "に伝える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 様子を見る人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "選択肢を失う",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早いほど立て直せる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a cook speaking plainly and calmly to a senior chef, steady posture, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "事実から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "話す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言い訳から話すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "判断が遅れる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "事実からだと早い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a cook and senior chef looking together at a next step written on a small card, no readable text, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "次の一手",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "まで添える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 報告だけだと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "不安が残る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "添えると信頼が残る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "悪い報告、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先延ばし",
+      "c": "gold"
+     },
+     {
+      "t": "しがち？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

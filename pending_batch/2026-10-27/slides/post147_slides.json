@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef calmly removing a pan from heat the moment a sauce begins to separate, warm golden kitchen light, focused hands",
+   "heading": [
+    [
+     {
+      "t": "失敗の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "直後の数秒",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "で結果が変わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hand immediately lifting a pan off the flame at the first sign of trouble, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "気づいた瞬間",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "に手を止める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ そのまま進めると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "失敗が広がる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "止めると広がらない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef thoughtfully examining a pan before adjusting the temperature, warm golden light, close on hands",
+   "heading": [
+    [
+     {
+      "t": "原因を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確かめて直す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 確かめず直すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "また失敗する",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確かめると繰り返さない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef calmly setting aside a part of the dish that cannot be saved while continuing with the rest, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "直せる範囲",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を見極める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 直せない所に時間を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "使うと悪化する",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "範囲を分けて守る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "つい慌てて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "混ぜ続ける",
+      "c": "gold"
+     },
+     {
+      "t": "方？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

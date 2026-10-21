@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a young cook listening attentively while a senior chef points at a dish during feedback, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "指摘を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "受け取る側",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "で結果が変わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a young cook nodding and taking a small note, calm posture, warm golden kitchen light, hands and notebook only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "まず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "受け止める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言い訳から話すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次が来なくなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "受け止める人に次が来る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a cook double-checking a finished dish against earlier notes, warm golden kitchen light, close on hands",
+   "heading": [
+    [
+     {
+      "t": "直した後も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度で終えると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "また指摘される",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認し続けると減る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a cook calmly continuing to work after receiving feedback, steady hands, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "内容だけ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "受け取る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 感情で受けると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次が怖くなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "内容で受けると伸びる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "あなたは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どちらに",
+      "c": "white"
+     },
+     {
+      "t": "近い？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a pot of clear dashi broth being gently strained in a warm kitchen, soft golden steam, no people",
+   "heading": [
+    [
+     {
+      "t": "信頼という味は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "地味な積み重ね",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "で決まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hand slowly lowering kelp and bonito into a pot of water, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "毎回同じ量",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ時間",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 気分で省くと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "味がぶれる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じが土台になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a pot of dashi warming slowly over low heat, gentle steam rising, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "水から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "丁寧に引く",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 急いで高温だと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "雑味が出る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時間が質を作る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef skimming fine foam from the surface of a simmering pot with a small ladle, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "雑味を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "取り続ける",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 省くと濁る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "面倒でも続ける",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "丁寧さが土台になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "省略しがちな",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "工程",
+      "c": "gold"
+     },
+     {
+      "t": "はどれ？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

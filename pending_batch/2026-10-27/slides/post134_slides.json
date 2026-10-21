@@ -1,0 +1,190 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef quietly observing a young cook working at a station from a short distance, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "任せた後、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "つい",
+      "c": "white"
+     },
+     {
+      "t": "口を出す",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "人への3つの視点",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hands letting go of a plate after handing it to a young cook, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "結果だけ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見る範囲",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ やり方まで見ると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "考えなくなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "結果だけ見て任せる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a young cook speaking to a senior chef at a kitchen pass, warm golden light, seen from the side",
+   "heading": [
+    [
+     {
+      "t": "報告させる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "場面を決める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 全部報告だと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分で判断しない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "場面を絞って任せる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a clock and a simple written schedule card on a kitchen shelf, no readable text, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "口を出す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "基準を数字で",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 感覚で出すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "都合になる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "数字や期限で決める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "つい細かく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見てしまう",
+      "c": "gold"
+     },
+     {
+      "t": "方？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

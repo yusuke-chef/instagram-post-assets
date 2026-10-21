@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a desk calendar and a pocket watch on a dark wooden desk, warm golden morning light, no people",
+   "heading": [
+    [
+     {
+      "t": "期限に追われる人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "追われない人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "時間の使い方の差",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef checking ingredients and tools laid out neatly the evening before service, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "前日に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "準備を終える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 当日型は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "直前まで慌てる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "前日型は実行だけ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a hand arranging small task cards in order of importance on a wooden table, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "重さで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "逆算する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 順番通りだと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "締切に追われる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "逆算すると追われない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "an empty chair and open space at a warm wooden table, suggesting reserved free time, golden light",
+   "heading": [
+    [
+     {
+      "t": "空ける時間",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を先に決める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 埋める人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "余裕がなくなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "空ける人は動ける",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "当日型ですか、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "前日型",
+      "c": "gold"
+     },
+     {
+      "t": "ですか？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

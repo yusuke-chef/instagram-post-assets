@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a quiet meeting room with a round wooden table and warm lamp light, no people, calm atmosphere",
+   "heading": [
+    [
+     {
+      "t": "リーダーの条件",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "は決める力",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ではない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a leader listening quietly while others speak around a table, warm golden light, seen from behind, no readable text",
+   "heading": [
+    [
+     {
+      "t": "反対意見",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を先に聞く",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 賛成だけ聞くと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "本音が出ない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に聞くと本音が出る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a leader explaining calmly to a small group around a wooden table, warm golden light, from the side",
+   "heading": [
+    [
+     {
+      "t": "決めた後も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理由を話す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 理由がないと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "納得されない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "話すと協力が増える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a leader nodding and admitting a mistake calmly, warm golden light, humble posture",
+   "heading": [
+    [
+     {
+      "t": "間違いを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐ認める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 認めが遅いと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "意見が減る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早いほど意見が集まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "あなたの周り、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "本音を",
+      "c": "white"
+     },
+     {
+      "t": "話せてる？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

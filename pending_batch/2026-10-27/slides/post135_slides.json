@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef standing calmly amid a slightly chaotic kitchen pass during a busy service, warm golden light, from behind",
+   "heading": [
+    [
+     {
+      "t": "動揺しにくい人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "が備えている",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つのこと",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef glancing at a backup plan written on a small card tucked by the station, no readable text, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "変化を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に想定",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 想定しておくと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "驚きが小さい",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "備えが落ち着きを作る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef taking a slow breath before speaking, calm expression, warm golden kitchen light, close on hands",
+   "heading": [
+    [
+     {
+      "t": "最初の一言",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を決めておく",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言葉が整うと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "その後も話せる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "慌てても崩れない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef's focused hands plating a single dish amid background blur, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "今できる事",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "だけに絞る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ できない事を見る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "動揺が長引く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "今に絞ると収まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "どの備えが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "できてい",
+      "c": "white"
+     },
+     {
+      "t": "ますか",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a hand placing a single decisive stamp on a document on a dark wooden desk, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "決めた後",
+      "c": "white"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "何を決めるか",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "で判断が早くなる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a hand writing a short note and closing a small notebook, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "理由を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一言で残す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 理由がないと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "迷いが戻る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "書くと戻らない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef pausing at a fork in a kitchen hallway, warm golden light, seen from behind",
+   "heading": [
+    [
+     {
+      "t": "後戻りの",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "基準を決める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 基準がないと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "不安ごとに迷う",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "基準があると進める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a small hourglass on a dark wooden table, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "いつまでか",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "期限を切る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 期限がないと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ずっと見直す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "切ると前に進む",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "決めた後、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "何を",
+      "c": "white"
+     },
+     {
+      "t": "決める？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

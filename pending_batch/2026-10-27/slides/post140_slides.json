@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a quiet warm hotel room with soft morning light through curtains, no people, calm and restful",
+   "heading": [
+    [
+     {
+      "t": "よく休める人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "が決めている",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つのこと",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a weekly planner page with blocked-out time, warm golden light, no readable text, close on paper texture only",
+   "heading": [
+    [
+     {
+      "t": "休みを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に入れる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 空いたら休むと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後回しになる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に入れておく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a phone placed face down on a quiet wooden table beside a warm cup, soft golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "完全に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "離れる時間",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 気にしていると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "回復しない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "離れる時間を作る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef resting quietly on a bench after a long tour, warm golden light, seen from a distance, back view",
+   "heading": [
+    [
+     {
+      "t": "休む基準",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を自分で持つ",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 基準がないと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "疲れてから慌てる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に決めておく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "休みを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に",
+      "c": "white"
+     },
+     {
+      "t": "入れてる？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

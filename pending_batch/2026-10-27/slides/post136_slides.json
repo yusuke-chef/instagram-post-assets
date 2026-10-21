@@ -1,0 +1,190 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a hotel staff member bowing precisely at a grand entrance, warm golden light, elegant hotel lobby, seen from behind",
+   "heading": [
+    [
+     {
+      "t": "信頼は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言葉より先に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "所作で",
+      "c": "gold"
+     },
+     {
+      "t": "決まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a hotel staff member's precise bowing posture at an elegant entrance, warm golden light, seen from the side",
+   "heading": [
+    [
+     {
+      "t": "挨拶の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "姿勢",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言葉より先に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "姿勢で決まる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "角度ひとつが伝わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "hands placing a folded napkin and silverware neatly at a precise angle on a white tablecloth, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "物の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "置き方",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 向きひとつで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "丁寧さが伝わる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "細部に安心が宿る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a calm warm expression of a host greeting a guest at a doorway, soft golden light, seen from a respectful distance",
+   "heading": [
+    [
+     {
+      "t": "最初の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "数秒の表情",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 表情が先に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "聞き方を変える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "話す前に印象が決まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "整えられて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "いない所作",
+      "c": "gold"
+     },
+     {
+      "t": "は？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

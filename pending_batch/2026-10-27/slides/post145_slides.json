@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef speaking briefly and clearly to staff before service, warm golden kitchen light, calm attentive listeners",
+   "heading": [
+    [
+     {
+      "t": "伝わる話し方",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "をする人の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "共通点",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef giving a short clear instruction with a confident gesture, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "結論を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に言う",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 理由が先だと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最後まで待てない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "結論が先だと伝わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef demonstrating a plating technique with a hand gesture instead of words, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "具体的な",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言葉に置き換える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 抽象的だと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝わらない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "具体にすると伝わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef adjusting his explanation differently for a junior cook versus a guest, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "相手で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "長さを変える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 同じ長さだと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "届かない事もある",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相手に合わせ調整",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "どの点が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "苦手",
+      "c": "white"
+     },
+     {
+      "t": "ですか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}
