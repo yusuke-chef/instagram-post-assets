@@ -1,8 +1,14 @@
 {
-  "errors": [],
-  "warnings": [],
+  "errors": [
+    "post138: 画像生成エラー openai.BadRequestError: Error code: 400 - {'error': {'message': 'Your request was rejected by the safety system. If you "
+  ],
+  "warnings": [
+    "post134: 完了(QA不合格のまま採用: スライド[4])",
+    "post142: 完了(QA不合格のまま採用: スライド[1])",
+    "post145: 完了(QA不合格のまま採用: スライド[3])"
+  ],
   "credits_exhausted": false,
-  "scheduled_until": "2026-10-26",
-  "ok": true,
-  "run_at": "2026-10-22T00:00:02+09:00"
+  "scheduled_until": "2026-10-29",
+  "ok": false,
+  "run_at": "2026-10-22T12:28:27+09:00"
 }

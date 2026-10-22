@@ -804,6 +804,28 @@
         "post81_slide5.jpg"
       ],
       "caption": "captions/post81.txt"
+    },
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post132_slide1.jpg",
+        "post132_slide2.jpg",
+        "post132_slide3.jpg",
+        "post132_slide4.jpg",
+        "post132_slide5.jpg"
+      ],
+      "caption": "captions/post132.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post133_slide1.jpg",
+        "post133_slide2.jpg",
+        "post133_slide3.jpg",
+        "post133_slide4.jpg",
+        "post133_slide5.jpg"
+      ],
+      "caption": "captions/post133.txt"
     }
   },
   "2026-10-28": {
@@ -817,6 +839,28 @@
         "post83_slide5.jpg"
       ],
       "caption": "captions/post83.txt"
+    },
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post134_slide1.jpg",
+        "post134_slide2.jpg",
+        "post134_slide3.jpg",
+        "post134_slide4.jpg",
+        "post134_slide5.jpg"
+      ],
+      "caption": "captions/post134.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post135_slide1.jpg",
+        "post135_slide2.jpg",
+        "post135_slide3.jpg",
+        "post135_slide4.jpg",
+        "post135_slide5.jpg"
+      ],
+      "caption": "captions/post135.txt"
     }
   },
   "2026-10-29": {
@@ -830,6 +874,28 @@
         "post85_slide5.jpg"
       ],
       "caption": "captions/post85.txt"
+    },
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post136_slide1.jpg",
+        "post136_slide2.jpg",
+        "post136_slide3.jpg",
+        "post136_slide4.jpg",
+        "post136_slide5.jpg"
+      ],
+      "caption": "captions/post136.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post137_slide1.jpg",
+        "post137_slide2.jpg",
+        "post137_slide3.jpg",
+        "post137_slide4.jpg",
+        "post137_slide5.jpg"
+      ],
+      "caption": "captions/post137.txt"
     }
   }
 }
