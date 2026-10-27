@@ -1,10 +1,8 @@
 {
-  "errors": [
-    "想定外のエラー: CalledProcessError: Command '['git', '-C', '/Users/chef-yusuke/Calude/YUSUKE/Instagram/Scheduled_Post', 'pull', '--rebase', '--autostash', 'origin', 'main']' returned non-zero exit status 1."
-  ],
+  "errors": [],
   "warnings": [],
   "credits_exhausted": false,
   "scheduled_until": "2026-11-03",
-  "ok": false,
-  "run_at": "2026-10-27T21:00:00+09:00"
+  "ok": true,
+  "run_at": "2026-10-28T06:01:31+09:00"
 }
