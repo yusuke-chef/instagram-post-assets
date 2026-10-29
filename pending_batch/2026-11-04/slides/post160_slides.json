@@ -1,0 +1,194 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a beautifully plated dish with careful negative space on a white plate, warm golden light, no readable text, no people",
+   "heading": [
+    [
+     {
+      "t": "中身と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝え方",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "盛り付けの教え",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hands arranging the most colorful ingredient at the front of a plate, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "見せる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "順番",
+      "c": "gold"
+     },
+     {
+      "t": "を考える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 良い部分を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に見せると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "全体の印象が良くなる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef carefully leaving empty space on a plate, warm golden light, close up, no readable text",
+   "heading": [
+    [
+     {
+      "t": "余白",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を残す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 詰め込みすぎると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "大事な部分が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝わりにくくなる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef stepping back to view a finished plate from the guest's side of the table, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "受け取る側の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "目線",
+      "c": "gold"
+     },
+     {
+      "t": "で見直す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 作る側ではなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "受け取る側の目線で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一度見直してみる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "伝え方で損した",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "経験",
+      "c": "gold"
+     },
+     {
+      "t": "は？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

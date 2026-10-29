@@ -1,0 +1,184 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's hand pausing before service, taking a slow breath, warm golden light, close up, no readable text",
+   "heading": [
+    [
+     {
+      "t": "緊張する前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "やること",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a close up of a person exhaling slowly, shoulders relaxed, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "長く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "息を吐く",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 吸うより吐く方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "長くするだけで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "体の力が抜ける",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef's hands carefully arranging a single small garnish, warm golden light, focused, no readable text",
+   "heading": [
+    [
+     {
+      "t": "手元の作業に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "集中",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 小さな作業に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "集中すると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "不安から離れられる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef rehearsing a plating motion quietly before service, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "本番の動きを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に",
+      "c": "gold"
+     },
+     {
+      "t": "一度",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 体が動きを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "覚えていると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "緊張しても手が動く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "緊張するのは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どんな時",
+      "c": "gold"
+     },
+     {
+      "t": "ですか？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

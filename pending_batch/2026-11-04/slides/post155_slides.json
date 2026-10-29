@@ -1,0 +1,198 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a pot of sauce resting quietly on a stove, steam settling, warm golden light, no people, no readable text",
+   "heading": [
+    [
+     {
+      "t": "感情は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "寝かせる",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "と角が取れる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hand pulling back from a simmering pot, letting it rest, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "すぐ出さず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一度",
+      "c": "gold"
+     },
+     {
+      "t": "置く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 熱いままの感情は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "角が立ちやすい",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一度置いて落ち着ける",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef tasting a sauce after it has rested, calm posture, warm golden light, no face closeup, no readable text",
+   "heading": [
+    [
+     {
+      "t": "時間を置くと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見え方",
+      "c": "gold"
+     },
+     {
+      "t": "が変わる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 少し時間を置くと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初ほど大きくない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "と気づくことがある",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a small reduced sauce being carefully spooned, warm golden light, close up, no readable text",
+   "heading": [
+    [
+     {
+      "t": "落ち着いてから",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "芯",
+      "c": "gold"
+     },
+     {
+      "t": "だけ伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 寝かせたあとは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝えるべき芯だけ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "が自然と残っていく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "怒りをどう",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "寝かせて",
+      "c": "gold"
+     },
+     {
+      "t": "いますか？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの方法を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

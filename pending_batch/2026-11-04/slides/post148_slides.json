@@ -1,0 +1,206 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a warm hotel restaurant scene with a hand extending in a gesture of apology across a table, golden light, no readable text, no faces close up",
+   "heading": [
+    [
+     {
+      "t": "謝るのが早い人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "と",
+      "c": "white"
+     },
+     {
+      "t": "遅い人",
+      "c": "gold"
+     },
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼を守る謝り方",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a person's hand reaching for a phone immediately after noticing a mistake, warm golden kitchen light, hands only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "気づいたら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐ",
+      "c": "gold"
+     },
+     {
+      "t": "伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 謝るのが遅い人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "黙って様子を見る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早い人は気づいた時点で言う",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "two people talking calmly at a restaurant table, one listening attentively, warm golden light, seen from the side, no readable text",
+   "heading": [
+    [
+     {
+      "t": "言い訳より",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "謝罪",
+      "c": "gold"
+     },
+     {
+      "t": "から話す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 謝れない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "事情から話し出す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "謝れる人は先に謝る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef's hands continuing careful work in a kitchen after a small mistake, warm golden light, focused and calm, no readable text",
+   "heading": [
+    [
+     {
+      "t": "言葉より",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の行動",
+      "c": "gold"
+     },
+     {
+      "t": "で示す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 謝れない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ説明を繰り返す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "謝れる人は行動で示す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "謝りにくいのは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どんな時",
+      "c": "gold"
+     },
+     {
+      "t": "ですか？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

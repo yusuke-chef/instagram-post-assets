@@ -1,0 +1,198 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "two people at a table, one hand confidently stating terms clearly, another hesitating, warm golden light, no readable text, no faces close up",
+   "heading": [
+    [
+     {
+      "t": "評価を上げる人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "下げる人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef clearly explaining what can and cannot be done before starting, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "できる範囲を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に",
+      "c": "gold"
+     },
+     {
+      "t": "伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 下げる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "聞かれてから答える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "上げる人は先に伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef pausing to make a call early when something is difficult, warm golden light, hands only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "難しい時は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早く",
+      "c": "gold"
+     },
+     {
+      "t": "言う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 下げる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "期限間際まで黙る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "上げる人は早めに言う",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef comparing a finished dish to a small note of the original request, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "結果は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "約束",
+      "c": "gold"
+     },
+     {
+      "t": "と比べる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 下げる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "結果だけ伝える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "上げる人は約束と比べる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "期待を揉れさせた",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "経験",
+      "c": "gold"
+     },
+     {
+      "t": "は？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

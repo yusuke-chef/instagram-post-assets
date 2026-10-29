@@ -1,0 +1,192 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef handing over a set of kitchen tools to another chef, warm golden light, hands only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "引き継ぐ時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初",
+      "c": "gold"
+     },
+     {
+      "t": "にすること",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "two chefs talking over a kitchen layout, one explaining, warm golden light, seen from behind, no readable text",
+   "heading": [
+    [
+     {
+      "t": "目的から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 手順だけでは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "想定外に対応できない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "目的も合わせて伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef pointing out a tricky spot on a stove to a colleague, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "よくある例外を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に",
+      "c": "gold"
+     },
+     {
+      "t": "共有",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ うまくいく手順だけ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "でなく困る場面も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "合わせて伝えておく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "two chefs agreeing with a nod in a kitchen, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "連絡する",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "基準",
+      "c": "gold"
+     },
+     {
+      "t": "を決める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ どこまで自分で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "判断していいかを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に決めておく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "引き継ぎで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "困った",
+      "c": "gold"
+     },
+     {
+      "t": "経験は？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

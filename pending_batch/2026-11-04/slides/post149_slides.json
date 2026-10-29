@@ -1,0 +1,196 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a kitchen counter with a dropped utensil and a chef's hand calmly reaching for it, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "トラブルの時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初",
+      "c": "gold"
+     },
+     {
+      "t": "にやること",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef calmly speaking on the phone in a kitchen, warm golden light, hands and shoulder only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "状況を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に",
+      "c": "gold"
+     },
+     {
+      "t": "伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 原因より先に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "今起きていることを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "正確に伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef's hands presenting two small plated alternatives side by side on a counter, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "代替案を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同時",
+      "c": "gold"
+     },
+     {
+      "t": "に出す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 問題だけ伝えると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相手を不安にさせる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "対応策も一緒に示す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "two people in a warm kitchen quickly conferring, seen from behind, golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "早く",
+      "c": "gold"
+     },
+     {
+      "t": "共有",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一人で抱えない",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 抱え込む時間が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "長いほど手が減る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早い共有が力になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "焦った時",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "忘れやすい",
+      "c": "gold"
+     },
+     {
+      "t": "のは？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

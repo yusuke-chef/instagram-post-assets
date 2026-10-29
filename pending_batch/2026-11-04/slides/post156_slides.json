@@ -1,0 +1,196 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef and client talking at a kitchen counter, client speaking and chef nodding attentively, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "良い質問をする人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "共通",
+      "c": "gold"
+     },
+     {
+      "t": "の3つ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef asking a thoughtful question before starting to cook, warm golden light, seen from the side, no readable text",
+   "heading": [
+    [
+     {
+      "t": "目的から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "質問",
+      "c": "gold"
+     },
+     {
+      "t": "する",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 手順の前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "何のためかを聞く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "目的から質問する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "two people in friendly conversation across a counter, relaxed golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "答えやすい",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "聞き方",
+      "c": "gold"
+     },
+     {
+      "t": "を選ぶ",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 漠然と聞かず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "選びやすい形にする",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相手が答えやすくなる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef repeating back a note with a small nod, warm golden light, no readable text, no visible writing",
+   "heading": [
+    [
+     {
+      "t": "理解を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認",
+      "c": "gold"
+     },
+     {
+      "t": "し返す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 聞いたら最後に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理解した内容を伝える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "思い違いを防げる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "聞きにくい",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "質問",
+      "c": "gold"
+     },
+     {
+      "t": "は何ですか？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

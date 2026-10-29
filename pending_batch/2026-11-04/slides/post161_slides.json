@@ -1,0 +1,196 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a warm golden light falling on a simple kitchen counter with a few small jars lined up in a row, no readable text, no people",
+   "heading": [
+    [
+     {
+      "t": "やる気が続く人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つ",
+      "c": "gold"
+     },
+     {
+      "t": "の習慣",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef lining up finished small dishes as a record of the day's work, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "小さな達成を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見える",
+      "c": "gold"
+     },
+     {
+      "t": "形に",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ やり終えたことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "記録して残すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次への力になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef doing one simple task even on a tired day, calm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "疲れた日の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "基準",
+      "c": "gold"
+     },
+     {
+      "t": "を下げる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 毎日同じ量でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最低限で良い日を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に決めておく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef's hand starting the same first motion before cooking, warm golden light, close up, no readable text",
+   "heading": [
+    [
+     {
+      "t": "始める前の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "儀式",
+      "c": "gold"
+     },
+     {
+      "t": "を決める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 同じ動作を先に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すると体が動き出す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "やる気が無い日も動ける",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "続けるための",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "習慣",
+      "c": "gold"
+     },
+     {
+      "t": "はある？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの習慣を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a person leaning in attentively listening to someone speak at a warm restaurant table, golden light, seen from the side, no readable text",
+   "heading": [
+    [
+     {
+      "t": "聞くのが上手い人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "必ずしている",
+      "c": "gold"
+     },
+     {
+      "t": "3つ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef listening patiently while a client talks across a table, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "話し終わるまで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "待つ",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 途中で遮ると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "本音が出てこない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最後まで聞き切る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "two people nodding and confirming understanding over a table, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "聞いた内容を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認",
+      "c": "gold"
+     },
+     {
+      "t": "する",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 自分の言葉で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言い換えて確認する",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "思い違いがすぐ分かる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef thoughtfully pausing while listening, warm golden light, close on hands and shoulder, no readable text",
+   "heading": [
+    [
+     {
+      "t": "言葉の裏を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "想像",
+      "c": "gold"
+     },
+     {
+      "t": "する",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 要望の裏にある",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "本当の目的を考える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "それも含めて聞く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "聞くのが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "苦手",
+      "c": "gold"
+     },
+     {
+      "t": "な場面は？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

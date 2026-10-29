@@ -1,0 +1,188 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's travel case with knives and tools packed neatly, ready for a journey, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "環境が変わっても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変えない",
+      "c": "gold"
+     },
+     {
+      "t": "こと",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef arranging ingredients in the same order on an unfamiliar counter, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "仕込みの順番",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変えない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 場所が変わっても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "手順は同じにする",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "迷いが減っていく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef's own well-worn knife and tools laid out on a new kitchen counter, warm golden light, close up, no readable text",
+   "heading": [
+    [
+     {
+      "t": "道具だけは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分",
+      "c": "gold"
+     },
+     {
+      "t": "の物",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 使い慣れた道具が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "環境差を感じさせない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "心を落ち着かせる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef pausing briefly before starting to cook, warm golden light, hands only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "確認作業は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "省かない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 忙しい日ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "省きたくなるが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ここだけは変えない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "変えないことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決めて",
+      "c": "gold"
+     },
+     {
+      "t": "いますか？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの習慣を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

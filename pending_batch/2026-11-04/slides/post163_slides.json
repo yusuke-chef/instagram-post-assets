@@ -1,0 +1,198 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "two chefs training side by side, one practicing a strength repeatedly, another struggling with a weak point, warm golden light, no readable text, no faces close up",
+   "heading": [
+    [
+     {
+      "t": "得意を伸ばす人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "苦手を直す人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef practicing a favorite technique with confidence, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "時間の使い方",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "得意",
+      "c": "gold"
+     },
+     {
+      "t": "に使う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 苦手に時間を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "使う人は伸び悩み",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "得意に使う人は伸びる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef asking a colleague for help with a difficult task, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "苦手は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "人に",
+      "c": "gold"
+     },
+     {
+      "t": "頼る",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 苦手を一人で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "抱える人は伸び悩み",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "人に頼る人は伸びる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef proudly presenting a dish that shows their strongest skill, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "評価の基準は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "得意",
+      "c": "gold"
+     },
+     {
+      "t": "の伸び",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 苦手の有無で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見る人は伸び悩み",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "得意の伸びで見る人は伸びる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "あなたの得意は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "何",
+      "c": "gold"
+     },
+     {
+      "t": "ですか？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの強みを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

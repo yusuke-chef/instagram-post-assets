@@ -1,0 +1,202 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef entering an unfamiliar kitchen, scanning the stove and sink area, warm golden light, back view, no readable text",
+   "heading": [
+    [
+     {
+      "t": "新しい厨房に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初",
+      "c": "gold"
+     },
+     {
+      "t": "にすること",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "なじむ人の共通点",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hand tracing along a kitchen counter checking stove and sink positions, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "配置を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に",
+      "c": "gold"
+     },
+     {
+      "t": "把握",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 火と水場",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "道具の場所を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初に確認する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef testing a small pan on a stove, careful and attentive, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "小さく",
+      "c": "gold"
+     },
+     {
+      "t": "動く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "勝手を確かめる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 大きく動く前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "簡単な作業で試す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "勝手を確かめておく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef quietly asking a colleague a short question in a kitchen, warm golden light, seen from behind, no readable text",
+   "heading": [
+    [
+     {
+      "t": "わからない事は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "その場",
+      "c": "gold"
+     },
+     {
+      "t": "で聞く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 後で聞き直すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "二度手間になる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "その場で確認が早い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "新しい場所で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初",
+      "c": "gold"
+     },
+     {
+      "t": "に見るのは？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたのやり方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

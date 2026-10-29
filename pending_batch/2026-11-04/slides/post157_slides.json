@@ -1,0 +1,196 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a warm plate of softly textured food being gently placed on a table in a bright care facility dining room, golden light, no readable text, no faces close up",
+   "heading": [
+    [
+     {
+      "t": "相手に合わせて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変える",
+      "c": "gold"
+     },
+     {
+      "t": "柔軟性",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hands carefully adjusting the texture of food on a cutting board, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "相手の状態を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に",
+      "c": "gold"
+     },
+     {
+      "t": "知る",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 年齢や体調で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ちょうど良い基準が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変わると考える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef plating a soft, comforting dish with care, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "手段は変えても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "目的",
+      "c": "gold"
+     },
+     {
+      "t": "は同じ",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 固さや味を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変えても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "楽しんでもらう目的は同じ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef gently explaining something while serving, seen from behind, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "変えたことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言葉",
+      "c": "gold"
+     },
+     {
+      "t": "で伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 黒子のままより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "配慮を伝えたほうが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "安心してもらえる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "相手によって",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変えて",
+      "c": "gold"
+     },
+     {
+      "t": "いること",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの工夫を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

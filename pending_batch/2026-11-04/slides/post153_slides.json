@@ -1,0 +1,190 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "two desks side by side, one hand already starting work and another hesitating, warm golden light, no readable text, no faces",
+   "heading": [
+    [
+     {
+      "t": "すぐ手をつける人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後回しにする人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hand picking up a small task immediately, warm golden kitchen light, close up, no readable text",
+   "heading": [
+    [
+     {
+      "t": "始める前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "考えない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 後回しにする人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "考えてから動く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐやる人は先に動く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef focusing on one small ingredient first rather than the whole counter, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "全部でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一部",
+      "c": "gold"
+     },
+     {
+      "t": "だけ",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 後回しにする人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "全体を見て重くなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一番小さい所から始める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef's hand starting to chop immediately without hesitation, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "今すぐ",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "その場で動く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 後回しにする人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気が向くまで待つ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐやる人は今動く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "後回しにしやすい",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "作業",
+      "c": "gold"
+     },
+     {
+      "t": "は？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

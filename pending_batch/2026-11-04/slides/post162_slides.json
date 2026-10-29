@@ -1,0 +1,196 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's hands continuing the same careful knife work regardless of surroundings, warm golden light, no readable text, no name badges or plaques",
+   "heading": [
+    [
+     {
+      "t": "肩書きより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "行動",
+      "c": "gold"
+     },
+     {
+      "t": "が信頼を作る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef working in the kitchen exactly as before, humble and focused, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "立場が変わっても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "行動",
+      "c": "gold"
+     },
+     {
+      "t": "は同じ",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 肩書きの前と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ動きを続ける",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "現場での姿勢は変えない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef helping a younger cook quietly in the background, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "肩書きは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "誰か",
+      "c": "gold"
+     },
+     {
+      "t": "のために",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 自分のためでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "周りのために使う",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "場面を増やしていく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef demonstrating a technique by doing it rather than explaining, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "肩書きでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "行動",
+      "c": "gold"
+     },
+     {
+      "t": "で示す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 肩書きで説得せず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "行動で示すことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "いつも優先する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "肩書きより大事な",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "こと",
+      "c": "gold"
+     },
+     {
+      "t": "は？",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの考えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}
