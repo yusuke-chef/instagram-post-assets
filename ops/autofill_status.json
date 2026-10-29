@@ -1,8 +1,11 @@
 {
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "post158: 完了(QA不合格のまま採用: スライド[2])",
+    "post159: 完了(QA不合格のまま採用: スライド[2])"
+  ],
   "credits_exhausted": false,
-  "scheduled_until": "2026-11-03",
+  "scheduled_until": "2026-11-11",
   "ok": true,
-  "run_at": "2026-10-28T15:00:02+09:00"
+  "run_at": "2026-10-29T12:22:29+09:00"
 }
