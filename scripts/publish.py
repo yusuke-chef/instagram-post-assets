@@ -184,7 +184,7 @@ def main():
         if slot not in due:
             continue
         if slot not in day_schedule:
-            if slot != "reel":
+            if slot not in ("reel", "eve"):  # eveは2026-10-29で終了した追加枠。予約が無いのは正常
                 print(f"ERROR: 本日({today_str})の{slot}枠が予約されていません。")
                 failed.append(slot)
             continue
