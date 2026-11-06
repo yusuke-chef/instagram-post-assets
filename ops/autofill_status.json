@@ -1,10 +1,8 @@
 {
-  "errors": [
-    "post171: 画像生成エラー openai.BadRequestError: Error code: 400 - {'error': {'message': 'Your request was rejected by the safety system. If you "
-  ],
+  "errors": [],
   "warnings": [],
   "credits_exhausted": false,
-  "scheduled_until": "2026-11-14",
-  "ok": false,
-  "run_at": "2026-11-06T18:07:27+09:00"
+  "scheduled_until": "2026-11-19",
+  "ok": true,
+  "run_at": "2026-11-07T00:06:03+09:00"
 }
