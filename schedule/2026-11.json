@@ -262,5 +262,77 @@
       ],
       "caption": "captions/post163.txt"
     }
+  },
+  "2026-11-12": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post164_slide1.jpg",
+        "post164_slide2.jpg",
+        "post164_slide3.jpg",
+        "post164_slide4.jpg",
+        "post164_slide5.jpg"
+      ],
+      "caption": "captions/post164.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post165_slide1.jpg",
+        "post165_slide2.jpg",
+        "post165_slide3.jpg",
+        "post165_slide4.jpg",
+        "post165_slide5.jpg"
+      ],
+      "caption": "captions/post165.txt"
+    }
+  },
+  "2026-11-13": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post166_slide1.jpg",
+        "post166_slide2.jpg",
+        "post166_slide3.jpg",
+        "post166_slide4.jpg",
+        "post166_slide5.jpg"
+      ],
+      "caption": "captions/post166.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post167_slide1.jpg",
+        "post167_slide2.jpg",
+        "post167_slide3.jpg",
+        "post167_slide4.jpg",
+        "post167_slide5.jpg"
+      ],
+      "caption": "captions/post167.txt"
+    }
+  },
+  "2026-11-14": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post168_slide1.jpg",
+        "post168_slide2.jpg",
+        "post168_slide3.jpg",
+        "post168_slide4.jpg",
+        "post168_slide5.jpg"
+      ],
+      "caption": "captions/post168.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post169_slide1.jpg",
+        "post169_slide2.jpg",
+        "post169_slide3.jpg",
+        "post169_slide4.jpg",
+        "post169_slide5.jpg"
+      ],
+      "caption": "captions/post169.txt"
+    }
   }
 }
