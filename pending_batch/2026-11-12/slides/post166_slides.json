@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef handing a small wrapped gift with both hands to someone, warm golden light, hands only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "感謝",
+      "c": "gold"
+     },
+     {
+      "t": "が軽く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝わって",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "いませんか",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef briefly gesturing toward a specific dish while thanking a colleague, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "具体的",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "に言う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 何に感謝か",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一言添えるだけで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝わり方が変わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef turning immediately to thank someone right after service, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "早く",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 時間が経つほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "感謝は軽くなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "だからすぐ伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef's hand gently placing a small thoughtful item on a counter, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "態度",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "でも示す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言葉だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の行動でも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "感謝を表す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝える前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの工夫を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

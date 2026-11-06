@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef managing several pots and pans simultaneously on a busy stove, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "優先順位",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "は仕込み順",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "と同じ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef starting a slow-cooking pot first while prepping other ingredients, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "時間が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "かかる順",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 時間がかかる物を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に動かすと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後が楽になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef quickly attending to a delicate sauce about to overcook, warm golden light, urgent hands",
+   "heading": [
+    [
+     {
+      "t": "崩れやすい",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "物を先に",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 状態が変わる物は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "放置すると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "取り返しがつかない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef tending two pots at once with calm efficiency, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "同時に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "まとめる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 並行できる仕事は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一つずつでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一緒に動かす",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "重なった時に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの基準を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

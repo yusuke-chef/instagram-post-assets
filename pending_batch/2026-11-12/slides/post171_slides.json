@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's tools and ingredients laid out neatly before starting, ready to begin, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "続く人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "やる気より",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "環境",
+      "c": "gold"
+     },
+     {
+      "t": "を変える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's apron and knife already set out by the door, ready to go, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "ハードル",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を下げる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 道具や場所を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に用意すると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "迷いが減る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a simple tally of small marks on a kitchen wall calendar, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "記録",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を見える場所に",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 続けた日数が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見えると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "それ自体が力になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef resting briefly with a simple small meal, calm, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "やらない日",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "も決める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 最低限で良い日を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に決めておく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "完全にやめない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "続けたい時に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの環境を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

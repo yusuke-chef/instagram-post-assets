@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's hand hesitating over a price list, then confidently pointing to a number, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "値上げを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝えられる人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "言えない人",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef calmly explaining ingredient costs with an open hand gesture, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "理由",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "から話す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言えない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "金額だけ気にする",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝えられる人は理由から",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef standing confidently while discussing price, warm golden light, composed posture",
+   "heading": [
+    [
+     {
+      "t": "正当な",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "理由として",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言えない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "申し訳なさそうに言う",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝えられる人は根拠を話す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef preparing a document calmly in advance, warm golden light, hands only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "早めに",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言えない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "直前まで先延ばし",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝えられる人は早めに話す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝える前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの考えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

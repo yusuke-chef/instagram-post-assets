@@ -1,0 +1,184 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's hand hovering between two ingredients on a wooden counter, deciding, warm golden light, hands only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "すぐ決める人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "迷い続ける人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決め方",
+      "c": "gold"
+     },
+     {
+      "t": "の基準",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hands holding several ingredients at once, overwhelmed by choice, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "基準で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "選ぶ",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 迷い続ける人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "情報が増えるほど迷う",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐ決める人は基準で選ぶ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef glancing briefly at a dish while plating quickly, warm golden light, focused hands",
+   "heading": [
+    [
+     {
+      "t": "目的",
+      "c": "gold"
+     },
+     {
+      "t": "で選ぶ",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 迷い続ける人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後悔しないかで選ぶ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐ決める人は目的で選ぶ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef confidently moving to the next task without hesitation, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "決めたら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "迷わない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 迷い続ける人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決めた後も迷う",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐ決める人は迷わない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "迷った時に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの基準を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

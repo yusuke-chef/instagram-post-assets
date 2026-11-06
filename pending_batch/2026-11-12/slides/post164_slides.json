@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's hand gently raised in a polite declining gesture over a table setting, warm golden light in an elegant kitchen, hands only, no readable text",
+   "heading": [
+    [
+     {
+      "t": "気まずくなる人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "また頼まれる人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "断り方",
+      "c": "gold"
+     },
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hand offering a small alternative dish on a tray, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "代案",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "も伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 気まずくなる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理由だけ伝える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "また頼まれる人は代案も",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef pausing thoughtfully before responding to a request, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "先に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "用意する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 気まずくなる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "断ってから考える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "また頼まれる人は先に用意",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef offering a warm parting word at the kitchen door, warm golden light, hands and gesture only",
+   "heading": [
+    [
+     {
+      "t": "次に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "つなげる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 気まずくなる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "断って終わる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "また頼まれる人は次を一言",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "断る前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの工夫を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

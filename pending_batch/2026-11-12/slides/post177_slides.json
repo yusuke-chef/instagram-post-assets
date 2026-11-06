@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef looking at an empty block of calm time deliberately left open, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "時間管理は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "余白",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に守る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef blocking out a quiet gap before filling the rest of the day, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "余白",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を先に決める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 予定を入れる前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "空ける時間を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に決める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef accounting for travel and setup time before cooking time, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "移動も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "予定に入れる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 作業の時間だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "移動や準備も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "予定に数える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef resting calmly in a spare moment rather than adding more tasks, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "余白",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "は休みに使う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 余白が余ったら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "埋めようとせず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "休むか見直す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "予定の前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの余白を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

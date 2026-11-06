@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a leader quietly observing a team member's effort during work, not just the outcome, warm golden light, kitchen setting",
+   "heading": [
+    [
+     {
+      "t": "慕われる人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "距離を置かれる人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "評価の軸",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a leader acknowledging someone's effort during the process, not just at the end, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "姿勢",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "も見る",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 距離を置かれる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "結果だけ見る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "慕われる人は姿勢も見る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a leader giving a small nod of encouragement mid-task, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "過程",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "で声をかける",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 距離を置かれる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "結果が出た時だけ褒める",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "慕われる人は過程でも褒める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a leader sitting beside a team member discussing what went wrong calmly, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "次を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一緒に考える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 距離を置かれる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "失敗を責める",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "慕われる人は次を考える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "評価の前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの軸を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

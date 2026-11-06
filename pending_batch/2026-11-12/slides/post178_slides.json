@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a mentor stepping back slightly, letting a junior chef handle a task alone, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "教えるのが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "上手い人の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの習慣",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a mentor quietly watching from a distance without interfering, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "失敗の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "範囲を決める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 取り返しのつく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "範囲なら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "あえて口を挟まない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a mentor checking in briefly at a set point during a task, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "確認",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "のタイミング",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 行き過ぎる前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "軌道修正できるよう",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認の時を決める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a mentor and junior chef quietly discussing a mistake together afterward, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "一緒に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "振り返る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 失敗そのものより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "その後の振り返りが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "力になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "任せる前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの工夫を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

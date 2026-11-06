@@ -1,0 +1,184 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a pot of clear dashi broth gently simmering, steam rising, warm golden kitchen light, close up, no readable text",
+   "heading": [
+    [
+     {
+      "t": "信頼",
+      "c": "gold"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "出汁",
+      "c": "gold"
+     },
+     {
+      "t": "と同じ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "積み重ね",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef slowly adding ingredients to a simmering pot of broth, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "時間",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "をかける",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 出汁は材料と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時間を重ねて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "澄んだ味になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef carefully watching a pot, resisting the urge to rush, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "急がない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一気に煮出すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "濃くなっても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "雑味も出てしまう",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "small repeated gestures of care in a kitchen, gently stacking plates, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "積み重ね",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を続ける",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 小さな約束や",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "短い会話の積み重ねが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "関わり方に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの積み重ねを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

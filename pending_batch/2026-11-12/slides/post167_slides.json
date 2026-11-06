@@ -1,0 +1,190 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef looking at a finished plated dish first, then glancing back at raw ingredients, warm golden light, hands and dish only",
+   "heading": [
+    [
+     {
+      "t": "段取り",
+      "c": "gold"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "逆算",
+      "c": "gold"
+     },
+     {
+      "t": "から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "始める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef's hands plating the final garnish on a finished dish, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "最後",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を決める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 出す状態を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に決めてから",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "逆算して動く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef checking a clock while starting to prep ingredients, warm golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "時間",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を割る",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 仕上げの時間から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕込みの開始を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "逆に決める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef leaving a small calm gap amid a busy prep station, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "余白",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を挟む",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 想定外が起きても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "崩れないように",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "余白を残す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "準備の前に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの段取りを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

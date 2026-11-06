@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef quietly reflecting after a small mistake in the kitchen, calm, warm golden light, hands on counter",
+   "heading": [
+    [
+     {
+      "t": "学べる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "必ずしている",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの習慣",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef taking a slow breath before returning to work, calm, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "落ち着いて",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "振り返る",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 感情が残ったまま",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "の反省は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次に活きにくい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef tracing back through steps of preparation thoughtfully, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "原因",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を広く見る",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 表面だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "手前の判断まで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "振り返る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef writing a brief note in a small personal notebook, no readable text, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "記録",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "に残す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 振り返りを記録すると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ場面で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "思い出せる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "失敗した時に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの習慣を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef looking at their own dish with quiet focus, not glancing at others' work, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "苦しくなる人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "そうでない人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "比べる",
+      "c": "gold"
+     },
+     {
+      "t": "対象",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef comparing a finished plate only to the dish itself, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "過程",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を見る",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 苦しくなる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "結果だけ見る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "そうでない人は過程を見る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef imagining the unseen effort behind another's finished dish, thoughtful, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "見えない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "努力",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 苦しくなる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見える結果だけ見る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "そうでない人は努力も想う",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef comparing today's dish with yesterday's own dish side by side, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "昨日の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 苦しくなる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "他人を基準にする",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "そうでない人は昨日の自分",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "比べた時に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの基準を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

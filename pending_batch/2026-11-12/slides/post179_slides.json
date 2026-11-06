@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef sharing a warm conversation with a long-time client in a cozy home kitchen, golden light, side view, no faces emphasized",
+   "heading": [
+    [
+     {
+      "t": "良い関係は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "対等",
+      "c": "gold"
+     },
+     {
+      "t": "から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "始まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef and client exchanging ideas comfortably over a kitchen counter, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "意見",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 好みを聞くだけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "提案も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "遠慮なく伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a relaxed comfortable kitchen atmosphere without stiff formality, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "気を使い",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぎない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ かしこまりすぎると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "長く続く関係には",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "なりにくい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef warmly noticing small changes in a family's life over the years, golden light, gentle atmosphere",
+   "heading": [
+    [
+     {
+      "t": "変化",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を楽しむ",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 好みや家族の形が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変わることを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一緒に見ていく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "関わり方に",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの関係を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     },
+     {
+      "t": "教えてください",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}
