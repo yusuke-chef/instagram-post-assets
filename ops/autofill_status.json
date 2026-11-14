@@ -1,16 +1,8 @@
 {
-  "errors": [
-    "post181: 画像生成エラー subprocess.TimeoutExpired: Command '['/Users/chef-yusuke/Calude/YUSUKE/Instagram/image_toolkit/ocr/vision_ocr', '/Users/",
-    "post182: 画像生成エラー subprocess.TimeoutExpired: Command '['/Users/chef-yusuke/Calude/YUSUKE/Instagram/image_toolkit/ocr/vision_ocr', '/Users/",
-    "post183: 画像生成エラー subprocess.TimeoutExpired: Command '['/Users/chef-yusuke/Calude/YUSUKE/Instagram/image_toolkit/ocr/vision_ocr', '/Users/"
-  ],
-  "warnings": [
-    "post187: 完了(QA不合格のまま採用: スライド[2])",
-    "post193: 完了(QA不合格のまま採用: スライド[1, 2])",
-    "post194: 完了(QA不合格のまま採用: スライド[3])"
-  ],
+  "errors": [],
+  "warnings": [],
   "credits_exhausted": false,
-  "scheduled_until": "2026-11-19",
-  "ok": false,
-  "run_at": "2026-11-14T12:21:19+09:00"
+  "scheduled_until": "2026-11-27",
+  "ok": true,
+  "run_at": "2026-11-14T15:05:20+09:00"
 }

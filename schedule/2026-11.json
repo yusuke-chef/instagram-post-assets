@@ -454,5 +454,197 @@
       ],
       "caption": "captions/post179.txt"
     }
+  },
+  "2026-11-20": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post180_slide1.jpg",
+        "post180_slide2.jpg",
+        "post180_slide3.jpg",
+        "post180_slide4.jpg",
+        "post180_slide5.jpg"
+      ],
+      "caption": "captions/post180.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post181_slide1.jpg",
+        "post181_slide2.jpg",
+        "post181_slide3.jpg",
+        "post181_slide4.jpg",
+        "post181_slide5.jpg"
+      ],
+      "caption": "captions/post181.txt"
+    }
+  },
+  "2026-11-21": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post182_slide1.jpg",
+        "post182_slide2.jpg",
+        "post182_slide3.jpg",
+        "post182_slide4.jpg",
+        "post182_slide5.jpg"
+      ],
+      "caption": "captions/post182.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post183_slide1.jpg",
+        "post183_slide2.jpg",
+        "post183_slide3.jpg",
+        "post183_slide4.jpg",
+        "post183_slide5.jpg"
+      ],
+      "caption": "captions/post183.txt"
+    }
+  },
+  "2026-11-22": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post184_slide1.jpg",
+        "post184_slide2.jpg",
+        "post184_slide3.jpg",
+        "post184_slide4.jpg",
+        "post184_slide5.jpg"
+      ],
+      "caption": "captions/post184.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post185_slide1.jpg",
+        "post185_slide2.jpg",
+        "post185_slide3.jpg",
+        "post185_slide4.jpg",
+        "post185_slide5.jpg"
+      ],
+      "caption": "captions/post185.txt"
+    }
+  },
+  "2026-11-23": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post186_slide1.jpg",
+        "post186_slide2.jpg",
+        "post186_slide3.jpg",
+        "post186_slide4.jpg",
+        "post186_slide5.jpg"
+      ],
+      "caption": "captions/post186.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post187_slide1.jpg",
+        "post187_slide2.jpg",
+        "post187_slide3.jpg",
+        "post187_slide4.jpg",
+        "post187_slide5.jpg"
+      ],
+      "caption": "captions/post187.txt"
+    }
+  },
+  "2026-11-24": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post188_slide1.jpg",
+        "post188_slide2.jpg",
+        "post188_slide3.jpg",
+        "post188_slide4.jpg",
+        "post188_slide5.jpg"
+      ],
+      "caption": "captions/post188.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post189_slide1.jpg",
+        "post189_slide2.jpg",
+        "post189_slide3.jpg",
+        "post189_slide4.jpg",
+        "post189_slide5.jpg"
+      ],
+      "caption": "captions/post189.txt"
+    }
+  },
+  "2026-11-25": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post190_slide1.jpg",
+        "post190_slide2.jpg",
+        "post190_slide3.jpg",
+        "post190_slide4.jpg",
+        "post190_slide5.jpg"
+      ],
+      "caption": "captions/post190.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post191_slide1.jpg",
+        "post191_slide2.jpg",
+        "post191_slide3.jpg",
+        "post191_slide4.jpg",
+        "post191_slide5.jpg"
+      ],
+      "caption": "captions/post191.txt"
+    }
+  },
+  "2026-11-26": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post192_slide1.jpg",
+        "post192_slide2.jpg",
+        "post192_slide3.jpg",
+        "post192_slide4.jpg",
+        "post192_slide5.jpg"
+      ],
+      "caption": "captions/post192.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post193_slide1.jpg",
+        "post193_slide2.jpg",
+        "post193_slide3.jpg",
+        "post193_slide4.jpg",
+        "post193_slide5.jpg"
+      ],
+      "caption": "captions/post193.txt"
+    }
+  },
+  "2026-11-27": {
+    "am": {
+      "type": "feed",
+      "slides": [
+        "post194_slide1.jpg",
+        "post194_slide2.jpg",
+        "post194_slide3.jpg",
+        "post194_slide4.jpg",
+        "post194_slide5.jpg"
+      ],
+      "caption": "captions/post194.txt"
+    },
+    "pm": {
+      "type": "feed",
+      "slides": [
+        "post195_slide1.jpg",
+        "post195_slide2.jpg",
+        "post195_slide3.jpg",
+        "post195_slide4.jpg",
+        "post195_slide5.jpg"
+      ],
+      "caption": "captions/post195.txt"
+    }
   }
 }
