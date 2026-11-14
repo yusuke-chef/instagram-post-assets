@@ -1,0 +1,178 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef looking thoughtfully at used dashi ingredients before setting them aside, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "出汁殻",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を活かす",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "経験の使い方",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef inspecting leftover simmered ingredients closely, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "終わったと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決めつけない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 出汁殻にも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "旨みは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "まだ残っている",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef preparing a second small dish using leftover simmered ingredients, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "使い方",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を変えて試す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ そのままでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "形を変えれば",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "役に立つ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef quietly reviewing small notes about past jobs, warm golden light, bright kitchen office nook, no readable text",
+   "heading": [
+    [
+     {
+      "t": "小さな経験",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "ほど見直す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 大きな失敗や",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "成功ばかりだと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見落とす",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "見直していない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "経験はありますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "two people shaking hands warmly across a hotel lounge table, golden evening light",
+   "heading": [
+    [
+     {
+      "t": "頼み方",
+      "c": "gold"
+     },
+     {
+      "t": "がうまい人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "断られる人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef explaining something carefully to a colleague with an open hand gesture, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "理由まで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "伝える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 断られる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "要件だけ伝え",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "頼み方が",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef checking a calendar with a colleague, both looking relaxed, warm golden light, bright office nook",
+   "heading": [
+    [
+     {
+      "t": "相手の都合",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を先に聞く",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 自分の都合より",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相手の都合を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に確認する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef bowing slightly in thanks to a colleague in a warm bright hotel corridor, golden light",
+   "heading": [
+    [
+     {
+      "t": "感謝",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "で終える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ お願いで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "安心せず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "結果に感謝する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "人に頼む時、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気をつけることは？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの工夫を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

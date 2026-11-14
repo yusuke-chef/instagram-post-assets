@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a composed chef taking a quiet breath before stepping into service, warm golden light, bright hotel corridor, no face",
+   "heading": [
+    [
+     {
+      "t": "機嫌",
+      "c": "gold"
+     },
+     {
+      "t": "が安定",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "している人の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの習慣",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef sitting briefly to rest with eyes closed, warm golden light, bright quiet corner of a kitchen",
+   "heading": [
+    [
+     {
+      "t": "疲れを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自覚する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 気づかず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "疲れをためると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "機嫌に出る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef glancing at a busy clock on the wall before a rush, warm golden light, bright kitchen, no readable numbers emphasized",
+   "heading": [
+    [
+     {
+      "t": "悪くなる場面",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を知る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ パターンが分かれば",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "その場面だけ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "意識して整える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef speaking gently and carefully to a colleague, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "悪い日ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "丁寧に話す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 普段通りの言葉でも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "強く伝わって",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "しまうから",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "機嫌が悪い時、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どう整えますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの方法を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

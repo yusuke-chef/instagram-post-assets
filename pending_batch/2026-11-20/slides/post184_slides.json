@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef calmly speaking to a colleague after a small kitchen mishap, warm golden light, bright kitchen, composed posture",
+   "heading": [
+    [
+     {
+      "t": "言い訳",
+      "c": "gold"
+     },
+     {
+      "t": "しない人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "と、つい言う人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef speaking plainly and calmly to a colleague, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "事実",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "から話す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 言い訳する人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理由から話す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "事実からが先",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef looking concerned toward a guest's table, warm golden light, bright hotel dining room, no face close up",
+   "heading": [
+    [
+     {
+      "t": "相手の不便",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を考える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 自分を守るより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相手への影響を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に考える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef nodding and writing a quick note on next steps, warm golden light, bright kitchen counter, no readable text",
+   "heading": [
+    [
+     {
+      "t": "次",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "につなげる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 説明で終わらず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次どうするか",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "まで伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "うまくいかない時、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初に何を話す？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

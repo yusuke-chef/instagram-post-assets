@@ -1,0 +1,178 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef writing a small note to remember a promise, warm golden light, bright kitchen counter, no readable text visible",
+   "heading": [
+    [
+     {
+      "t": "小さな約束",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を守る人の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの習慣",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef jotting a quick note on a small pad right after a conversation, warm golden light, bright kitchen, no readable text",
+   "heading": [
+    [
+     {
+      "t": "その場で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "記録する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 覚えておくつもりが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一番忘れ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "やすい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef explaining something honestly and calmly to a colleague, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "守れない時は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に伝える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 後から言い訳より",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に伝える方が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼を守る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef carefully checking off small items on a short list, warm golden light, bright kitchen counter, no readable text",
+   "heading": [
+    [
+     {
+      "t": "小さくても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "同じ重さ",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 軽く扱うと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "必ずどこかで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "崩れていく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "大事にしている",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "小さな約束は？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの約束を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef marking small checkpoints on a long preparation schedule, warm golden light, bright kitchen office nook, no readable text",
+   "heading": [
+    [
+     {
+      "t": "大きな目標",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を立てたら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初にやること",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef dividing a large preparation task into small labeled trays, warm golden light, bright kitchen counter, no readable text",
+   "heading": [
+    [
+     {
+      "t": "区切れる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "大きさに分ける",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 大きいままだと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "進む実感が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "得にくい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef checking a clock before starting the first small task, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "一つ目に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "期限をつける",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 期限のない区切りは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先延ばしに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "なる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef calmly checking off a finished small task with satisfaction, warm golden light, bright kitchen counter, no readable text",
+   "heading": [
+    [
+     {
+      "t": "区切りごとに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 終わりを確認しないと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "距離感が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "分からなくなる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "目標を、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どう区切りますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの区切り方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

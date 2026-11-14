@@ -1,0 +1,178 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a group of hotel kitchen colleagues helping each other carry trays, warm golden light, bright kitchen, warm teamwork",
+   "heading": [
+    [
+     {
+      "t": "自然と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "助けてもらえる人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の3つの習慣",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef showing a tired but calm expression implied by relaxed posture to a colleague, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "無理を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "隠さない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 普段から隠さない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "周りも変化に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気づきやすい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef helping a colleague carry a heavy tray, warm golden light, bright kitchen, teamwork",
+   "heading": [
+    [
+     {
+      "t": "助けた経験",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を積む",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 助けた経験がある人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "助けを求める",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "タイミングを知る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef bowing slightly in thanks to a colleague after receiving help, warm golden light, bright kitchen corridor",
+   "heading": [
+    [
+     {
+      "t": "感謝を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "きちんと伝える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 感謝が伝わる人には",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次も自然と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "手が伸びる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "周りに、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "助けを求められますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

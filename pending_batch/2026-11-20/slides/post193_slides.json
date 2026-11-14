@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef moving confidently and quickly to start preparations, warm golden light, bright kitchen, decisive posture",
+   "heading": [
+    [
+     {
+      "t": "すぐ動く人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "と、",
+      "c": "white"
+     },
+     {
+      "t": "動けない人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef checking only a few key notes before starting a task, warm golden light, bright kitchen counter, no readable text",
+   "heading": [
+    [
+     {
+      "t": "集める目的",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を決める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 動けない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "集めること自体が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "目的になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef already working while glancing at a note for extra details, warm golden light, bright kitchen, no readable text",
+   "heading": [
+    [
+     {
+      "t": "動きながら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "情報を足す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 先に動いて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "必要な情報を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後から足す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef stepping forward calmly despite an uncertain expression implied by posture, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "不安ごと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "動き出す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 不安を消すより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "抱えたまま",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "動き出す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "動く前に、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どこまで集める？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの基準を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

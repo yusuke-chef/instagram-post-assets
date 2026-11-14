@@ -1,0 +1,178 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef taking a steady breath before stepping into a large unfamiliar banquet kitchen, warm golden light, confident posture, no face",
+   "heading": [
+    [
+     {
+      "t": "無理だと思う",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "依頼ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "力になる",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef nodding in agreement while taking a note on a new request, warm golden light, bright kitchen office nook, no readable text",
+   "heading": [
+    [
+     {
+      "t": "受けるか",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に決める",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ できるかどうかは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "受けた後に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "整えればいい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef laying out extra ingredients and tools carefully before a demanding job, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "準備を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "普段より厚く",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 不安が大きいほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "準備の量で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "補える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef quietly reflecting after a successful service, calm satisfied posture, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "終えたら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "振り返る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 思ったより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "できたという実感が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の自信になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "無理だと思う依頼、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "受けていますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの経験を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

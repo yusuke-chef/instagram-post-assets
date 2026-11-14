@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's hand adjusting a stove heat dial beside a simmering pan, warm golden light, bright hotel kitchen, close up, no face",
+   "heading": [
+    [
+     {
+      "t": "火加減",
+      "c": "gold"
+     },
+     {
+      "t": "を変える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ように",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分も変える",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef checking the texture of ingredients closely before cooking, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "状態を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に確認",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 食材も体調も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "毎日少しずつ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "違っている",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef gently turning a stove heat dial down to a softer setting, warm golden light, kitchen counter, hands only",
+   "heading": [
+    [
+     {
+      "t": "強さが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "正解ではない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 整っていない時に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "強く入れると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕上がりが崩れる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef calmly tending a gently simmering pot on low heat, warm golden light, bright kitchen, no face",
+   "heading": [
+    [
+     {
+      "t": "弱い日は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "弱火でいい",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 火を落としても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "止めないことが",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "大切",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "調子が悪い日、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どう整えますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたのペースを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef calmly preparing one more dish among many identical quiet routine trays, warm golden light, bright hotel kitchen, steady composed posture",
+   "heading": [
+    [
+     {
+      "t": "地味な継続",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "が力になる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理由",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef calmly handling a large order of identical trays with practiced ease, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "基準が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "上がっていく",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 数をこなすほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "特別だった対応が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "当たり前になる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef quietly preparing ingredients well before service, no rush, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "地味な準備",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "に時間を使う",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 結果を出す人ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見えない時間が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "丁寧",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef receiving a warm returning booking note from a colleague, warm golden light, bright kitchen office nook, no readable text",
+   "heading": [
+    [
+     {
+      "t": "続けること",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "が次につながる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一回の出来栄えより",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "積み重ねを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見てもらえる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "地味に積み重ねて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "いることは？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの継続を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

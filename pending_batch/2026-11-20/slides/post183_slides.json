@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef presenting an unfinished dish to a colleague for a quick look, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "完璧",
+      "c": "gold"
+     },
+     {
+      "t": "の前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "最初にやる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "こと",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef plating a simple test dish quickly, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "六割で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "形にする",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 完璧を目指すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "手が止まる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時間が増える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef showing a dish to a colleague early for feedback, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "早く",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "人の目に",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 自分だけで",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕上げ続けると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ズレに気づけない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef calmly adjusting seasoning on a dish after tasting, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "直す前提",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "で進める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度で完成だと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "修正が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "失敗に見える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "完成前に、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "人に見せていますか？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたのやり方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef calmly finishing preparations well ahead of a dinner service, warm golden light, bright kitchen, relaxed pace",
+   "heading": [
+    [
+     {
+      "t": "早く出す人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "と、",
+      "c": "white"
+     },
+     {
+      "t": "ギリギリの人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef reviewing a finished dish once more with a calm, checking gaze, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "確認の時間",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を残す",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ ギリギリの人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "終わりが目的",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早い人は見直す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef showing a finished plate to a colleague for a second opinion, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "人の目",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を入れる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 早く出すから",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "誰かに確認して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "もらう時間がある",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef checking a prep schedule with extra margin marked, warm golden light, bright kitchen counter, no readable text emphasis",
+   "heading": [
+    [
+     {
+      "t": "遅れ",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を想定する",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 予定通りに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "進まない前提で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "余裕を作る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "締め切りまで、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どれくらい余裕を？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの余裕を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

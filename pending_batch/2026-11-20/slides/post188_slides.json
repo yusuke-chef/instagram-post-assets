@@ -1,0 +1,176 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef warmly greeting a returning guest at a hotel entrance, second meeting, warm golden light, bright lobby",
+   "heading": [
+    [
+     {
+      "t": "二度目",
+      "c": "gold"
+     },
+     {
+      "t": "を大事にする人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "の違い",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef pausing to reconsider preparations before a second visit, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "毎回",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "あらためて整える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度目の印象に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "頼らず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "毎回整える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef recalling details while preparing a tray, thoughtful posture, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "前回",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を覚えておく",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 前に話したことや",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "好みを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "覚えておく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef carefully arranging a table setting with extra attention, warm golden light, bright dining room",
+   "heading": [
+    [
+     {
+      "t": "重ねるほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "丁寧になる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 慣れるのでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "回数を重ねるほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "丁寧にする",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "二度目に会う人へ、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どんな心がけを？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの心がけを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

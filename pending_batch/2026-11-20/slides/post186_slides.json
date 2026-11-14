@@ -1,0 +1,178 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef carefully examining an unfamiliar ingredient on a counter, warm golden light, bright kitchen, curious posture",
+   "heading": [
+    [
+     {
+      "t": "新しい食材",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "を試す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "慎重さ",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef preparing a tiny test portion of a dish on a small plate, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "小さく",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "先に試す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 新しい食材を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "いきなり本番で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "使わない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef calmly tasting a small test spoon, relaxed expression implied by posture, warm golden light, bright kitchen",
+   "heading": [
+    [
+     {
+      "t": "失敗前提",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "で試す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 小さく試す段階は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "うまくいかなくても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "影響が小さい",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef comparing two small test plates side by side, warm golden light, bright kitchen counter",
+   "heading": [
+    [
+     {
+      "t": "結果で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "取り入れる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 感覚でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "試した結果で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "新しいこと、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どう小さく試す？",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの工夫を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えてください",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}
