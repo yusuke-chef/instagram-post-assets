@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a pot resting off the heat with gentle steam rising in a warm golden kitchen, no people",
+   "heading": [
+    [
+     {
+      "t": "余熱",
+      "c": "gold"
+     },
+     {
+      "t": "に学ぶ、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教えすぎない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "という育て方",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef turning off the stove and stepping back from a simmering pot, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "火を止めても",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "火は入り続ける",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 教えた直後でなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "その後の時間で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理解が深まる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a resting pot of stew left untouched on a warm lit counter, golden light, no people",
+   "heading": [
+    [
+     {
+      "t": "触りすぎると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "崩れる",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ すぐ口を出すと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "本人が気づく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "機会を奪う",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef quietly waiting beside a resting dish, warm golden kitchen light, from the side",
+   "heading": [
+    [
+     {
+      "t": "待つ時間も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "調理の一部",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 考えさせる時間も",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "教育の一部だと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "捉える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "教えた後、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "すぐ口を出していますか",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

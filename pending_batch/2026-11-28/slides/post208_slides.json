@@ -1,0 +1,184 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef calmly working amid a busy kitchen service, warm golden light, from the side",
+   "heading": [
+    [
+     {
+      "t": "忙しい時に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "質が落ちる人",
+      "c": "gold"
+     },
+     {
+      "t": "と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ちない人",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef pausing briefly to decide what to do first in a busy kitchen, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "重要な順",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 落ちる人は手の空いた順",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ちない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "重要な順にやる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef carefully maintaining a clean basic prep station during a busy service, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "基本は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "省かない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 落ちる人は目立つ所を急ぐ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ちない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "基本を省かない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef calmly asking a colleague for help during a busy service, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "早めに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相談する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 落ちる人は一人で抱える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "落ちない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早めに相談する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "忙しい時、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一番省くこと",
+      "c": "gold"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

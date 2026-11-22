@@ -1,0 +1,198 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef's hands writing notes on a small notepad before starting prep, warm golden kitchen light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "動く前",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認する",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "たった",
+      "c": "white"
+     },
+     {
+      "t": "3つ",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef looking thoughtfully at a plated dish, warm golden kitchen light, from the side",
+   "heading": [
+    [
+     {
+      "t": "まず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ゴール",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 最終的に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "何を実現したいか",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を確認する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a clock on a warm lit kitchen wall, soft golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "次に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "期限",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ いつまでに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "形にすればいいか",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を確認する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef's hands holding a small notebook, warm golden kitchen light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "最後に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "裁量",
+      "c": "gold"
+     },
+     {
+      "t": "の範囲",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ どこまで自分で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決めていいか",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "を確認する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "この",
+      "c": "white"
+     },
+     {
+      "t": "3つ",
+      "c": "gold"
+     },
+     {
+      "t": "、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "確認できていますか",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

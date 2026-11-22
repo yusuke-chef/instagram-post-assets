@@ -1,0 +1,186 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef gently checking on a tired colleague at a quiet kitchen counter, warm golden light, from behind",
+   "heading": [
+    [
+     {
+      "t": "元気づける人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "声かけの",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "順番",
+      "c": "gold"
+     },
+     {
+      "t": "が決まっている",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef gently asking about a colleague's condition in a warm lit kitchen, golden light",
+   "heading": [
+    [
+     {
+      "t": "体調",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に聞く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 結果より先に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "体調や様子を聞く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "それが最初の一歩",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef nodding warmly in appreciation to a colleague, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "具体的に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "労う",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ やったことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一つ挙げて労う",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気持ちが伝わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "two chefs looking at a schedule together calmly, warm golden kitchen light, from the side",
+   "heading": [
+    [
+     {
+      "t": "見通しを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一緒に確認",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 次の見通しを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一緒に確認する",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "安心感が残る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "どの順番で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "声をかけていますか",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

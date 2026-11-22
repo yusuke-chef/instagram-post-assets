@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef reviewing a small notepad before meeting a new client, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "初対面の前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼される人の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの準備",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef thinking quietly before a meeting, warm golden light, from the side",
+   "heading": [
+    [
+     {
+      "t": "求めることを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "想像する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 相手が本当に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "求めていることを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に想像しておく",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef writing brief notes before a meeting, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "用意しておく",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 聞かれそうなことへの",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に用意する",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef holding a small checklist before a meeting, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "確認したいことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "リストにする",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 自分から聞きたいことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先にまとめておく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "当日慌てない",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "会う前に、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どんな準備",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

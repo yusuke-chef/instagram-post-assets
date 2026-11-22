@@ -1,0 +1,176 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef quietly preparing dishes in an empty warm lit kitchen, golden light, no people's faces",
+   "heading": [
+    [
+     {
+      "t": "評価される人と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼される人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "の違いとは",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef working carefully in a warm lit kitchen with no one watching, golden light",
+   "heading": [
+    [
+     {
+      "t": "見られていない時",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 評価目的の人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "見られる時だけ丁寧",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼目的はいつも同じ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef calmly explaining something at a counter, warm golden light, from the side",
+   "heading": [
+    [
+     {
+      "t": "事実",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に話す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 評価目的は言い訳が先",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼目的は事実が先",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "その順番で変わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef quietly preparing for the next task after finishing, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "感謝された後",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "も動く",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 評価目的はそこで満足",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼目的は次に進む",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "積み重ねが続く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "どちらを意識して",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "動いていますか",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

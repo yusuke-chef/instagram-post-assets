@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a warm lit table set for a long-standing client dinner, golden evening light, no people's faces",
+   "heading": [
+    [
+     {
+      "t": "長く続く関係に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "共通する",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの習慣",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a hand reaching for a phone to send a quick message, warm golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "連絡を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後回しにしない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 小さな連絡ほど",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早く返す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "それが積み重なる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef adjusting a dish slightly based on a returning client's preference, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "変化に合わせて",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "少しずつ変える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 相手の状況に合わせ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "やり方を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "少しずつ変える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef bowing slightly in gratitude at the end of a service, warm golden light, from behind",
+   "heading": [
+    [
+     {
+      "t": "普段から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "感謝を伝える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 結果が出た時だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "普段から",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "感謝を伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "続けている",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "小さな習慣",
+      "c": "gold"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

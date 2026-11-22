@@ -1,0 +1,198 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef skimming foam from a simmering pot of broth with a small ladle, warm golden kitchen light, hands only",
+   "heading": [
+    [
+     {
+      "t": "アク取り",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "学ぶ、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕事の",
+      "c": "white"
+     },
+     {
+      "t": "引き算",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a small ladle skimming foam from a clear simmering broth, warm golden light, close up",
+   "heading": [
+    [
+     {
+      "t": "濁る前",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "取り除く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 出汁のアクは早く取る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕事も小さなズレを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早めに取り除く",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef carefully checking a pot of broth, warm golden kitchen light, hands only",
+   "heading": [
+    [
+     {
+      "t": "取りすぎ",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "ないよう見極める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 旨みまで取ると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "味が薄くなる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "削る範囲を見極める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef tasting broth from a small spoon beside a pot, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "取った後に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "味を見る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ アクを取ったら味見",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "仕事も減らした後に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "全体を見直す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "仕事の",
+      "c": "white"
+     },
+     {
+      "t": "引き算",
+      "c": "gold"
+     },
+     {
+      "t": "、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "できていますか",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "減らせそうなことを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

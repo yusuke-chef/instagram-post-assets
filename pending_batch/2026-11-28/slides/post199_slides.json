@@ -1,0 +1,182 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "two kitchen staff working smoothly side by side at a warm lit counter, golden light, hands only",
+   "heading": [
+    [
+     {
+      "t": "一緒に仕事",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "がしやすい人の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの習慣",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef quietly informing a colleague at a kitchen counter, warm golden light, from behind",
+   "heading": [
+    [
+     {
+      "t": "状況を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に伝える",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 聞かれる前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一言伝えておく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "それだけで変わる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef raising a hand slightly to speak up in a warm lit kitchen, golden light",
+   "heading": [
+    [
+     {
+      "t": "できないことは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早めに言う",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 抱え込まずに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早めに共有する",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼につながる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef glancing across the kitchen while working, warm golden light, from the side",
+   "heading": [
+    [
+     {
+      "t": "持ち場の外にも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "目を配る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 自分の仕事だけでなく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "周りにも気を配る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "やりやすさが生まれる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の仕事の前",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "意識しているのは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どれですか",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

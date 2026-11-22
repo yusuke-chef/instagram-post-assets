@@ -1,0 +1,170 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef adding a tiny pinch of a hidden seasoning into a simmering pot, warm golden kitchen light, close up",
+   "heading": [
+    [
+     {
+      "t": "隠し味",
+      "c": "gold"
+     },
+     {
+      "t": "に学ぶ、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "目立たない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気配りの価値",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a finished plated dish on a warm lit counter, golden light, no people",
+   "heading": [
+    [
+     {
+      "t": "主張しない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 隠し味は言わない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気配りも伝えずに",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "全体を支える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef carefully measuring a small amount of seasoning, warm golden kitchen light, hands only",
+   "heading": [
+    [
+     {
+      "t": "入れすぎない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ やりすぎると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "やってる感が出る",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "印象を落とす",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "an empty small seasoning dish beside a plated dish, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "抜くと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "物足りない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度なくすと",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "理由が分からぬまま",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "心地悪さが残る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "目立たない気配り、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "ありますか",
+      "c": "gold"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの気配りを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

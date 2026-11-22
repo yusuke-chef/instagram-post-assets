@@ -1,0 +1,190 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "an elegant hotel lobby clock and a quiet hallway in warm golden morning light, no people",
+   "heading": [
+    [
+     {
+      "t": "時間を守るの",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "本当の意味を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "帝国ホテル",
+      "c": "gold"
+     },
+     {
+      "t": "で学ぶ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a hotel staff lineup standing quietly in a warm lit corridor before opening, golden light, from behind",
+   "heading": [
+    [
+     {
+      "t": "時間は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分だけでない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 遅れは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "後に続く人全員の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時間を削る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a quiet hotel room door with soft golden morning light, no people",
+   "heading": [
+    [
+     {
+      "t": "早すぎも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "配慮が必要",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 相手の準備時間を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "奪ってしまう",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "早さも気を配る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a warm lit hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "時間を守る姿が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼",
+      "c": "gold"
+     },
+     {
+      "t": "になる",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 小さな約束を守る人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "大きな仕事でも",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "信頼される",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "時間を守る時、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "意識すること",
+      "c": "gold"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

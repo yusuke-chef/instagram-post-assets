@@ -1,0 +1,180 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a chef glancing carefully across a quiet dining room, warm golden light, from behind",
+   "heading": [
+    [
+     {
+      "t": "小さな変化に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "気づく人の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの習慣",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef quietly noting the usual arrangement of a table setting, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "いつもの状態",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 基準を知らなければ",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "変化にも気づけない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "まず普段を知る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a chef pausing to look across the whole room while working, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "見る時間を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "意識して作る",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 細部に集中しすぎると",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "周りを見落とす",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "時間を分けて見る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a chef pausing thoughtfully before speaking, warm golden light, from the side",
+   "heading": [
+    [
+     {
+      "t": "すぐ言葉に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "しない",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 気づいたことは",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "先に確かめる",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "必要なら伝える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "最近気づいた",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "小さな変化",
+      "c": "gold"
+     },
+     {
+      "t": "は",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの気づきを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで",
+      "c": "gold"
+     }
+    ]
+   ]
+  }
+ ]
+}

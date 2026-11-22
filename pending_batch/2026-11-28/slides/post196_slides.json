@@ -1,0 +1,198 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "colleagues talking quietly before a meeting in a warm lit office hallway, golden light, no readable text",
+   "heading": [
+    [
+     {
+      "t": "相談が",
+      "c": "white"
+     },
+     {
+      "t": "通る人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "と通らない人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "の違いとは",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a hand about to knock on an office door, warm golden light, seen from behind",
+   "heading": [
+    [
+     {
+      "t": "決める前",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相談する",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度で終わる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "決まった後に報告",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "頼まれる人は先に相談",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "two colleagues talking at a quiet corner of a bright warm office, golden light",
+   "heading": [
+    [
+     {
+      "t": "影響を受ける人",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "から伝える",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度で終わる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "思いつく順に伝える",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "頼まれる人は順番を選ぶ",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a notepad with no readable text and a pen on a wooden desk, warm golden light",
+   "heading": [
+    [
+     {
+      "t": "選択肢",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "添えて話す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 一度で終わる人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "悩みだけ持っていく",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "頼まれる人は案を添える",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "保存して、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "相談の前",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "決める前と後、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "どちらが多い",
+      "c": "gold"
+     },
+     {
+      "t": "ですか",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

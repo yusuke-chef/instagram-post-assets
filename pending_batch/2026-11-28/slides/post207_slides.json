@@ -1,0 +1,190 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "a young chef listening carefully to instructions from a senior chef, warm golden kitchen light, from behind",
+   "heading": [
+    [
+     {
+      "t": "任された時に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "評価を上げる人の",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "3つの習慣",
+      "c": "gold"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a chef confirming the overall plan before starting prep, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "最初に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "全体像",
+      "c": "gold"
+     },
+     {
+      "t": "を聞く",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 細部に入る前に",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "全体の目的を聞く",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "方向を合わせる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "a young chef briefly reporting progress to a senior chef, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "途中で",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "一度報告する",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 終わってから見せず",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "途中で方向を確認",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "やり直しが減る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a young chef approaching a senior chef after finishing a task, warm golden kitchen light",
+   "heading": [
+    [
+     {
+      "t": "終わったら",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次を聞きに行く",
+      "c": "gold"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 終わった合図を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "自分から出す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "次の信頼につながる",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "この",
+      "c": "white"
+     },
+     {
+      "t": "3つ",
+      "c": "gold"
+     },
+     {
+      "t": "、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "できていますか",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "あなたの答えを",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "コメントで教えて",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}

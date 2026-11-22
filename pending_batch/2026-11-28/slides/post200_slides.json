@@ -1,0 +1,192 @@
+{
+ "slides": [
+  {
+   "role": "hook",
+   "scene": "colleagues seated around a warm lit meeting table, golden light, no readable text on documents",
+   "heading": [
+    [
+     {
+      "t": "意見が",
+      "c": "white"
+     },
+     {
+      "t": "通る人",
+      "c": "gold"
+     },
+     {
+      "t": "と",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "通らない人",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "の違いとは",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "①",
+   "scene": "a person pausing thoughtfully before speaking in a warm lit meeting room, golden light",
+   "heading": [
+    [
+     {
+      "t": "流れ",
+      "c": "gold"
+     },
+     {
+      "t": "を",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "読んでから話す",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 通らない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "思いつくと即話す",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "通る人は流れを見る",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "②",
+   "scene": "colleagues listening attentively around a warm lit meeting table, golden light",
+   "heading": [
+    [
+     {
+      "t": "空気が",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "整った後",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 通らない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "順番を気にしない",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "通る人は後に話す",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "knowhow",
+   "num": "③",
+   "scene": "a person nodding calmly while listening in a warm lit meeting room, golden light",
+   "heading": [
+    [
+     {
+      "t": "一度",
+      "c": "gold"
+     }
+    ],
+    [
+     {
+      "t": "受け止める",
+      "c": "white"
+     }
+    ]
+   ],
+   "sub": [
+    [
+     {
+      "t": "→ 通らない人は",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "反対にすぐ反論",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "通る人は受け止める",
+      "c": "white"
+     }
+    ]
+   ]
+  },
+  {
+   "role": "cta",
+   "kind": "message",
+   "scene": "a warm dark hotel lounge with a wooden table and golden lamp light, no people",
+   "heading": [
+    [
+     {
+      "t": "次の会議の前",
+      "c": "gold"
+     },
+     {
+      "t": "に",
+      "c": "white"
+     }
+    ]
+   ],
+   "box": [
+    [
+     {
+      "t": "発言のタイミング、",
+      "c": "white"
+     }
+    ],
+    [
+     {
+      "t": "意識できていますか",
+      "c": "white"
+     }
+    ]
+   ]
+  }
+ ]
+}
